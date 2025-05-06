@@ -1,0 +1,12 @@
+---
+title: "Lomito vs. Michi"
+title-block-banner: banner.jpg
+description: "Peluditos."
+author: "Montse"
+date: "2025-04-03"
+categories: [imagen]
+image: lomito-michi.jpg
+lightbox: true
+---
+
+![No te fijes en el tablero](lomito-michi.jpg)

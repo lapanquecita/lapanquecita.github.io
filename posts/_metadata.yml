@@ -6,3 +6,18 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+
+filters:
+  - social-share
+
+share:
+  permalink: https://lapanquecita.github.io/
+  twitter: true
+  facebook: true
+  reddit: true
+  stumble: true
+  tumblr: true
+  linkedin: true
+  email: true
+  mastodon: true
+  bsky: true

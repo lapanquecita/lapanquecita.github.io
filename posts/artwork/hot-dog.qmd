@@ -1,0 +1,12 @@
+---
+title: "Hot-dog"
+title-block-banner: banner.jpg
+description: "Tal cual."
+author: "Montse"
+date: "2025-03-29"
+categories: [imagen]
+image: hot-dog.jpg
+lightbox: true
+---
+
+![Esto sí es cosplay](hot-dog.jpg)
