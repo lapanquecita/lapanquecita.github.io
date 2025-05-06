@@ -1,0 +1,23 @@
+---
+title: "Montse"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/lapanquecita
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/lapanquecita
+    - icon: github
+      text: GitHub
+      href: https://github.com/lapanquecita
+
+---
+
+¡Hola! Soy Montse, una analista de datos conocida por hacer gráficas bonitas.
+
+En este blog no encontrarás nada de valor. Lo único que hallarás es contenido generado por IA, ya sean historias, comentarios, o imágenes curiosas.
+
+Si lo que buscas es contenido útil, puedes encontrarlo en los enlaces que están justo debajo de este párrafo.

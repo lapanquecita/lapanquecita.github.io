@@ -1,0 +1,37 @@
+---
+title: "El sarampión ha regresado"
+title-block-banner: ../banner.jpg
+description: "Análisis de la incidencia de sarampión en México durante el 2025."
+author: "Montse"
+date: "2025-04-29"
+categories: [análisis de datos, salud pública, chihuahua]
+image: 1.png
+lightbox: true
+---
+
+![Mapa choropleth de Chihuahua](1.png){group="my-gallery"}
+
+¡¿CÓMO CHINGADOS PERMITIMOS QUE EL SARAMPIÓN REGRESARA, MÉXICO?!
+
+¡¿QUÉ CLASE DE PAÍS DE MIERDA PERMITE QUE UNA ENFERMEDAD DEL SIGLO XIX SE PASEE OTRA VEZ COMO PEDRO POR SU CASA EN PLENO 2025?! ¡¿EN QUÉ PUTO MOMENTO NOS VOLVIMOS TAN ESTÚPIDOS COMO SOCIEDAD?!
+
+![Tabla Chihuahua](2.png){group="my-gallery"}
+
+¡Chihuahua tiene más de 560 casos de sarampión! Y no, no es una exageración — hay municipios con tasas que rebasan los 187 casos por cada 100,000 habitantes. ¡Esto no es una alerta, es una pinche SIRENA A TODO VOLUMEN y nadie parece estar haciendo un carajo!
+
+¿Qué chingados pasó con las vacunas?
+¿Dónde está la gente con dos neuronas que antes sabía que la pinche vacuna del sarampión era obligatoria? ¿Dónde están los padres que no eran tan imbéciles como para creerle a un pinche video de Facebook antes que a décadas de ciencia médica?
+
+¿Y los gobiernos? Bien, gracias. Sentados con el dedo metido en el culo mientras los programas de salud pública se desmoronan, mientras los centros de salud están vacíos o desabastecidos, mientras la niñez se enferma por la absoluta ineptitud de todos los niveles de autoridad.
+
+![Distribución por sexo y edad](3.png){group="my-gallery"}
+
+¡LOS NIÑOS SON LOS QUE ESTÁN PAGANDO ESTA JODIDA PANDEMIA DE IGNORANCIA!
+No tienen culpa de tener padres antivacunas, ni culpa de vivir en un país donde las prioridades están volteadas al revés como calzón sucio.
+
+¡BASTA DE SER TAN PENDEJOS!
+VACÚNENSE. EXIJAN. LEVANTEN LA VOZ.
+O vayan y díganle a una familia que perdió a su hijo por sarampión que “era su libertad no vacunar”. A ver si les alcanza el cinismo.
+
+Esto ya no es negligencia.
+Es un crimen social.

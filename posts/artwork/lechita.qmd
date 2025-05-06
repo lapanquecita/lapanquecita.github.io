@@ -1,0 +1,12 @@
+---
+title: "Lechita"
+title-block-banner: banner.jpg
+description: "Este becerro sabe lo que es bueno."
+author: "Montse"
+date: "2025-05-03"
+categories: [imagen]
+image: lechita.jpg
+lightbox: true
+---
+
+![Moo!](lechita.jpg)

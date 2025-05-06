@@ -1,0 +1,16 @@
+---
+title: "Últimas entradas"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  sort-ui: true
+  filter-ui: true
+  categories: true
+  feed: true  
+page-layout: full
+title-block-banner: false
+---
+
+

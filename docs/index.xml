@@ -49,7 +49,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="lechita.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Moo!"><img src="https://lapanquecita.github.io/posts/artwork/lechita.jpeg" class="img-fluid figure-img" alt="Moo!"></a></p>
+<p><a href="lechita.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Moo!"><img src="https://lapanquecita.github.io/posts/artwork/lechita.jpg" class="img-fluid figure-img" alt="Moo!"></a></p>
 <figcaption>Moo!</figcaption>
 </figure>
 </div>
@@ -60,7 +60,7 @@
   <category>imagen</category>
   <guid>https://lapanquecita.github.io/posts/artwork/lechita.html</guid>
   <pubDate>Sat, 03 May 2025 06:00:00 GMT</pubDate>
-  <media:content url="https://lapanquecita.github.io/posts/artwork/lechita.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://lapanquecita.github.io/posts/artwork/lechita.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Sor Juana</title>
@@ -101,7 +101,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="bojack.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Cabayo"><img src="https://lapanquecita.github.io/posts/artwork/bojack.jpeg" class="img-fluid figure-img" alt="Cabayo"></a></p>
+<p><a href="bojack.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Cabayo"><img src="https://lapanquecita.github.io/posts/artwork/bojack.jpg" class="img-fluid figure-img" alt="Cabayo"></a></p>
 <figcaption>Cabayo</figcaption>
 </figure>
 </div>
@@ -112,7 +112,7 @@
   <category>imagen</category>
   <guid>https://lapanquecita.github.io/posts/artwork/bojack.html</guid>
   <pubDate>Thu, 01 May 2025 06:00:00 GMT</pubDate>
-  <media:content url="https://lapanquecita.github.io/posts/artwork/bojack.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://lapanquecita.github.io/posts/artwork/bojack.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>No se enfermen</title>
@@ -195,12 +195,13 @@
  ]]></description>
   <category>análisis de datos</category>
   <category>salud pública</category>
+  <category>chihuahua</category>
   <guid>https://lapanquecita.github.io/posts/analisis/sarampion/</guid>
   <pubDate>Tue, 29 Apr 2025 06:00:00 GMT</pubDate>
   <media:content url="https://lapanquecita.github.io/posts/analisis/sarampion/1.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
-  <title>El Hambgre Antigua</title>
+  <title>El Hambre Antigua</title>
   <dc:creator>Montse </dc:creator>
   <link>https://lapanquecita.github.io/posts/cuentos/hambre-antigua.html</link>
   <description><![CDATA[ 
@@ -619,6 +620,31 @@ Y el pueblo tampoco.</strong></p>
   <media:content url="https://lapanquecita.github.io/posts/cuentos/juicio-tren.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Hace un calor de otro mundo</title>
+  <dc:creator>Montse </dc:creator>
+  <link>https://lapanquecita.github.io/posts/artwork/calor-otro-mundo.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="calor-otro-mundo.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Se antoja"><img src="https://lapanquecita.github.io/posts/artwork/calor-otro-mundo.jpg" class="img-fluid figure-img" alt="Se antoja"></a></p>
+<figcaption>Se antoja</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>imagen</category>
+  <guid>https://lapanquecita.github.io/posts/artwork/calor-otro-mundo.html</guid>
+  <pubDate>Sat, 19 Apr 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://lapanquecita.github.io/posts/artwork/calor-otro-mundo.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Por donde ardió la tierra</title>
   <dc:creator>Montse </dc:creator>
   <link>https://lapanquecita.github.io/posts/cuentos/ardio-la-tierra.html</link>
@@ -662,6 +688,222 @@ Que hay cosas que solo se apagan con sangre.</p>
   <guid>https://lapanquecita.github.io/posts/cuentos/ardio-la-tierra.html</guid>
   <pubDate>Wed, 16 Apr 2025 06:00:00 GMT</pubDate>
   <media:content url="https://lapanquecita.github.io/posts/cuentos/ardio-la-tierra.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Temperatura promedio de la CDMX</title>
+  <dc:creator>Montse </dc:creator>
+  <link>https://lapanquecita.github.io/posts/analisis/temperatura-cdmx/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="El cambio climático es real, pero la democracia no"><img src="https://lapanquecita.github.io/posts/analisis/temperatura-cdmx/1.png" class="img-fluid figure-img" alt="El cambio climático es real, pero la democracia no"></a></p>
+<figcaption>El cambio climático es real, pero la democracia no</figcaption>
+</figure>
+</div>
+<p>¡ESTA MIERDA YA NO ES CALOR, CABRÓN! ¡ES UN PUTÍSIMO DESVERGUE CLIMÁTICO DE NIVEL APOCALÍPTICO! ¡Lo que tienes enfrente no es una gráfica bonita con colores! ¡Es el grito desgarrador del planeta, mentándonos la madre a todos por haberlo hecho mierda! ¿Y qué hacemos? Nada. ¡NI MADRES! Solo decimos “jeje, qué calor, pásame el ventilador”, mientras el mundo literalmente se prende fuego frente a nuestros ojos de pendejos pasmados!</p>
+<p>¡28 PUTOS GRADOS EN LA CIUDAD DE MÉXICO EN JUNIO! ¡NO MAMES! ¿¡QUÉ VERGA ES ESO!? ¡Esto no es Cancún, no es Dubái, no es el jodido centro del Sol! ¡ES LA CDMX, cabrón! La ciudad que hace 20 años todavía tenía tardes frescas y mañanas con suéter. ¡Pues ahora fresco MIS HUEVOS, porque esto ya es un pinche horno tóxico lleno de asfalto, ozono, y mentiras políticas!</p>
+<p>Y no me vengan con mamadas: ¡ESTO ES CULPA NUESTRA Y DE TODOS LOS CULEROS CON PODER QUE HAN JUGADO A SER DIOSES DEL PETRÓLEO Y LA DESTRUCCIÓN! Gobiernos que no hacen ni verga, industrias que queman el planeta por “crecimiento”, políticos que se limpian el culo con los acuerdos climáticos… ¡A la verga todos! ¡Su lana no va a servir ni de abanico cuando estemos todos derritiéndonos como plastilina en una plancha!</p>
+<p>¿Y EL NIÑO? ¡Ese cabrón vino encabronado, con ganas de partirnos la madre, y lo logró! El fenómeno de El Niño se está tragando al mundo con una sonrisa. Es como si la Tierra dijera: “Ah, ¿quieren jugar al calentamiento global? Va, perros, aquí les va una dosis letal con clima random, sequías, incendios, y 28 grados en el puto altiplano.” ¡Nos está dando con todo y nosotros ni las manos metemos, nomás compartimos memes y hacemos TikToks diciendo “ay, qué fuerte el calor jiji”!</p>
+<p>¡ESTAMOS EN EL PUTO TRÁILER DEL FIN DEL MUNDO Y NOSOTROS COMPRANDO CLIMAS EN LUGAR DE EXIGIR ACCIÓN CLIMÁTICA YA! No es una alerta. ¡ES UNA REPUTÍSIMA MENTADA DE MADRE CÓSMICA, CABRONES!</p>
+<p>Y si seguimos tragando plástico, manejando hasta para ir a la esquina, y reventando el planeta por comodidad… ¡NOS VA A LLEVAR LA CHINGADA A TODOS!</p>
+<p>Y bien llevados. Con todo y crocs.</p>
+
+
+
+ ]]></description>
+  <category>análisis de datos</category>
+  <category>temperatura</category>
+  <category>cdmx</category>
+  <guid>https://lapanquecita.github.io/posts/analisis/temperatura-cdmx/</guid>
+  <pubDate>Wed, 09 Apr 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://lapanquecita.github.io/posts/analisis/temperatura-cdmx/1.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Yum</title>
+  <dc:creator>Montse </dc:creator>
+  <link>https://lapanquecita.github.io/posts/artwork/palomitas.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="palomitas.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Estamos más cerca del triceratops que de una secuela decente de Jurassic Park"><img src="https://lapanquecita.github.io/posts/artwork/palomitas.jpg" class="img-fluid figure-img" alt="Estamos más cerca del triceratops que de una secuela decente de Jurassic Park"></a></p>
+<figcaption>Estamos más cerca del triceratops que de una secuela decente de Jurassic Park</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>imagen</category>
+  <guid>https://lapanquecita.github.io/posts/artwork/palomitas.html</guid>
+  <pubDate>Wed, 09 Apr 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://lapanquecita.github.io/posts/artwork/palomitas.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Pantera Rosa</title>
+  <dc:creator>Montse </dc:creator>
+  <link>https://lapanquecita.github.io/posts/artwork/pantera-rosa.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="pantera-rosa.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Nunca me gustó la caricatura"><img src="https://lapanquecita.github.io/posts/artwork/pantera-rosa.jpg" class="img-fluid figure-img" alt="Nunca me gustó la caricatura"></a></p>
+<figcaption>Nunca me gustó la caricatura</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>imagen</category>
+  <guid>https://lapanquecita.github.io/posts/artwork/pantera-rosa.html</guid>
+  <pubDate>Wed, 09 Apr 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://lapanquecita.github.io/posts/artwork/pantera-rosa.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>El Arca</title>
+  <dc:creator>Montse </dc:creator>
+  <link>https://lapanquecita.github.io/posts/cuentos/el-arca.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>¿Quieren saber por qué los ahogué?</p>
+<p>Porque me tenían hasta la verga.<br>
+Hasta el infinito de mi ser reventándome en furia.<br>
+Yo, el Todo, el que parió el universo de un pinche estornudo, hice al hombre. Lo moldeé con mis dedos llenos de luz. Les di la chispa. El aliento. Mi fuego.</p>
+<p>Y qué hicieron los culeros.</p>
+<p>Se cogieron todo.<br>
+Mataron a todo.<br>
+Se rieron de todo.<br>
+De mí.</p>
+<p>Festejaban su hediondez como si fuera virtud.<br>
+Se empinaban a los débiles. Bebían de cráneos. Se arrancaban la ropa para rezar con los dientes envenenados de mentira. Jugaban a ser dioses sin saber ni siquiera ser humanos.</p>
+<p>Cada día me llamaban entre gemidos falsos. “¡Dios mío!”, gritaban mientras apuñalaban, mientras violaban, mientras escupían sobre lo sagrado. Me usaban como escudo. Como muletilla. Como excusa. “Dios me lo permitió”.<br>
+¡Yo no les permití ni mierda!</p>
+<p>Estaba harto. Asqueado. Asfixiado por su pestilencia.<br>
+Y dije: <strong>“A la chingada todo. Los borro.”</strong></p>
+<p>Pero no a todos.<br>
+Uno…<br>
+Noé.</p>
+<hr>
+<p>Noé era una pinche anomalía. No era santo, no era mártir, no era chingón.<br>
+Era real.<br>
+Tenía miedo.<br>
+Y eso bastaba.</p>
+<p>Le dije: “Te va a cargar la verga a todos menos a ti. Hazte una pinche arca. Un monstruo de madera, de clavos y sudor. Métele tu familia y una bola de bestias. Porque lo que viene no es lluvia: es exterminio”.</p>
+<p>Y el cabrón, sin chistar, se puso a construir.<br>
+Y los otros…<br>
+<strong>Jajajaja.</strong></p>
+<p>Lo veían martillar y le decían loco, le gritaban que chingara a su madre, que su dios era una broma, que si quería les prestaban su pito para que lo remachara en el techo del arca.</p>
+<p>Se orinaban cerca. Le tiraban mierda. Le aventaban fetos muertos.<br>
+Y aún así, Noé seguía.<br>
+Cada golpe de martillo era un aviso.<br>
+Cada tabla era un ataúd para el mundo.</p>
+<hr>
+<p>Entonces… solté el infierno.</p>
+<p>No agua. <strong>Rabia líquida.</strong><br>
+El cielo se desgarró como un útero podrido. Llovió con furia, con odio, con vómito celestial.<br>
+Los mares crecieron como si quisieran tragar el pecado.<br>
+Los ríos gritaban.<br>
+El viento mordía.</p>
+<p>La tierra se volvió fango y cadáver.</p>
+<p>Los culeros corrieron, claro.<br>
+Siempre corren cuando huelen a muerte.<br>
+Fueron al arca, se hincaron, suplicaron:</p>
+<p>—“¡Noé! ¡Ábrenos! ¡Mis hijos! ¡Mi vieja! ¡Diosito ya me arrepentí, por favor!”</p>
+<p>Ya era tarde, hijos de perra.<br>
+Esa puerta estaba cerrada con <strong>mi</strong> furia, con el cerrojo de la sentencia.<br>
+La golpearon hasta partirse los dedos.<br>
+Chillaban como cerdos.<br>
+Se abrazaban entre vómito y lodo.<br>
+Le ofrecían sus bebés al cielo como si fueran ofrendas de última hora.</p>
+<p>Y yo los miraba.<br>
+Tragarse su miedo.<br>
+Romperse.<br>
+Convertirse en lo único sincero que habían sido jamás: <strong>carne y terror.</strong></p>
+<hr>
+<p>Adentro, Noé temblaba.<br>
+No de frío. De saber.<br>
+De entender.<br>
+Que ser elegido no es privilegio, es maldición.</p>
+<p>El arca flotaba entre la muerte.<br>
+El mundo era un cementerio líquido.<br>
+Los que no se ahogaban se reventaban contra piedras.<br>
+Los niños flotaban como muñecos rotos.<br>
+Y los animales… los animales miraban sin entender por qué el cielo les cagaba encima.</p>
+<p>El hedor adentro era insoportable: mierda, sangre, desesperación.<br>
+Pero al menos respiraban.</p>
+<p>Yo los dejé ahí. <strong>Cuarenta días.</strong><br>
+No por capricho.<br>
+Porque quería que escucharan cada grito.<br>
+Cada burbuja.<br>
+Cada golpe de un cuerpo ahogado contra la madera.</p>
+<hr>
+<p>Cuando la tierra tragó de nuevo las aguas, Noé salió.<br>
+Y lo primero que hizo no fue besar el suelo.<br>
+Fue matarme un animal.<br>
+Quemarlo.<br>
+Y alzar el humo hacia el cielo como diciendo:<br>
+<strong>“Esto es lo que queda. ¿Te gusta?”</strong></p>
+<p>Y sí. Me gustó.<br>
+Porque era crudo.<br>
+Porque olía a intestino y culpa.<br>
+Porque no era para darme gracias, sino para decirme que él entendía lo que hice.</p>
+<p>Después se emborrachó. Se tiró desnudo. Se cagó encima.<br>
+Y lo vi.<br>
+Lo amé más así que cuando estaba sobrio.<br>
+Porque era verdad pura.<br>
+Era la humanidad, sin máscara.</p>
+<hr>
+<p>Les dejé un arcoíris.<br>
+No por tierno.<br>
+Por sádico.</p>
+<p>Para que cada vez que lo vean recuerden:<br>
+<strong>“Aquí hubo un dios que los ahogó como ratas.”</strong><br>
+Que no crean que no lo volvería a hacer.<br>
+Que no crean que se salvaron por ser buenos.</p>
+<p>Se salvaron porque me dio la gana.<br>
+Porque uno, solo uno, bajó la cabeza sin hacerse el chingón.</p>
+<p>Y aún así…<br>
+volverán a cagarla.<br>
+Y yo estaré mirando.<br>
+Y cuando me harté otra vez…</p>
+<p><strong>No será con agua.<br>
+Será con fuego.<br>
+Con uñas.<br>
+Con hambre.<br>
+Con el olvido mismo.</strong></p>
+<p>Yo soy Dios.<br>
+No el que perdona.<br>
+El que revienta.<br>
+El que siembra y quema.<br>
+El que cuando escupe…<br>
+<strong>te desaparece.</strong></p>
+
+
+
+ ]]></description>
+  <category>literatura</category>
+  <category>cuento</category>
+  <guid>https://lapanquecita.github.io/posts/cuentos/el-arca.html</guid>
+  <pubDate>Wed, 09 Apr 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://lapanquecita.github.io/posts/cuentos/el-arca.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,12 @@
+---
+title: "Yum"
+title-block-banner: banner.jpg
+description: "Este mostro sabe lo que es bueno."
+author: "Montse"
+date: "2025-04-09"
+categories: [imagen]
+image: palomitas.jpg
+lightbox: true
+---
+
+![Estamos más cerca del triceratops que de una secuela decente de Jurassic Park](palomitas.jpg)

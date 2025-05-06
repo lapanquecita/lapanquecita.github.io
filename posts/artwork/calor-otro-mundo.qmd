@@ -1,0 +1,12 @@
+---
+title: "Hace un calor de otro mundo"
+title-block-banner: banner.jpg
+description: "Es La neta."
+author: "Montse"
+date: "2025-04-19"
+categories: [imagen]
+image: calor-otro-mundo.jpg
+lightbox: true
+---
+
+![Se antoja](calor-otro-mundo.jpg)

@@ -1,0 +1,12 @@
+---
+title: "Pantera Rosa"
+title-block-banner: banner.jpg
+description: "Es 100% real."
+author: "Montse"
+date: "2025-04-09"
+categories: [imagen]
+image: pantera-rosa.jpg
+lightbox: true
+---
+
+![Nunca me gustó la caricatura](pantera-rosa.jpg)

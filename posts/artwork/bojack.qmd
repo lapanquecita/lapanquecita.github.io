@@ -1,0 +1,12 @@
+---
+title: "BoJack"
+title-block-banner: banner.jpg
+description: "Visto en un cine popular de México."
+author: "Montse"
+date: "2025-05-01"
+categories: [imagen]
+image: bojack.jpg
+lightbox: true
+---
+
+![Cabayo](bojack.jpg)

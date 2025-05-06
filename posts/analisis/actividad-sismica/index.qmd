@@ -1,0 +1,26 @@
+---
+title: "Actividad sísmica en México"
+title-block-banner: ../banner.jpg
+description: "Análisis de la actividad sísmica en México (2015-2024)."
+author: "Montse"
+date: "2025-03-30"
+categories: [análisis de datos, geología, sismos]
+image: 1.png
+lightbox: true
+---
+
+![Mapa de densidad](1.png)
+
+¡NO MAMES, MÉXICO! ¡Qué chingados te hicimos para que estés temblando cada pinche hora, cada pinche día, como si trajeras una cruda eterna de borracho malacopa! ¡Ve nomás ese mapa de mierda! ¡Es una lluvia de fuego, una pinche orgía de epicentros! ¡Más de 256 MIL vergasos telúricos en menos de 10 años! ¡CHINGA TU MADRE, TIERRA!
+
+¿Y sabes qué es lo peor? ¡Que no se trata ni de la magnitud, wey! ¡Ni siquiera están contando cuántos edificios se cayeron o cuánta gente salió encuerada en la madrugada! ¡NO! ¡Es nada más cuántas veces la Tierra decidió ponerse punk y sacudirnos los huevos como maraca en festival de ska!
+
+¡El puto sur de México parece alfombra sísmica! ¡Oaxaca, Guerrero, Chiapas, no mamen, deberían tener una tarjeta de cliente frecuente del puto SSN! ¡Una más y les dan un café gratis por cada diez temblores! ¡Esos cabrones no viven sobre tierra, viven sobre una licuadora en modo turbo!
+
+¡Y qué pedo con Baja California y el pinche Pacífico! ¡Tampoco se salvan, ahí están también, vibrando sabroso como si tuvieran un consolador geológico enterrado! ¡Ya basta, verga! ¿Qué nos quiere decir el planeta? ¿Nos odia? ¿Nos está trolleando? ¿O simplemente le caga que construyamos en lugares donde claramente la tierra grita "¡AQUÍ NO, PENDEJO!"?
+
+¡Y las autoridades, ni se diga! ¡Simulacro, simulacro, chinguen a su madre! ¡Simulen que les importa, más bien! Porque cuando truena el suelo de verdad, se les cae el cantón y ahí andan buscando excusas y echándole la culpa a Dios o a “la naturaleza”. ¡Háganse responsables, pinches inútiles!
+
+¡Y lo más cagado es que ya estamos tan acostumbrados que uno dice “ah, tembló” como si fuera que se te cayó el pinche celular! ¡Así estamos, tan jodidamente curtidos que un sismo de 5 grados ya ni te despierta! ¡Nos tiemblan los huevos, pero seguimos tomándonos el café como si nada!
+
+¡YA BASTA, CABRÓN! ¡TIERRA, YA ESTUVO! ¡Si vas a destruirnos, hazlo de un chingadazo y ya, no estés jodiendo poquito a poquito, que pareces suegra resentida con vibrador en la mano!

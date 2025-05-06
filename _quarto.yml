@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Blog de Montse | Datos, cultura e historia"
+  description: "Contamos historias que nadie más se atreve a contar."
+  open-graph: true
+  twitter-card:
+    creator: "@lapanquecita"
+    site: "@lapanquecita"
+  favicon: logo/png
+  site-url: https://lapanquecita.github.io
+  search:
+    location: navbar
+    type: textbox
+  navbar:
+    logo: logo.png
+    right:
+      - icon: person
+        href: about.qmd
+
+lang: es-MX
+format:
+  html:
+    sharing: [twitter, facebook]
+    theme: darkly
+    css: styles.css

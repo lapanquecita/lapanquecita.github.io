@@ -1,0 +1,43 @@
+---
+title: "Crisis hídrica en Sinaloa"
+title-block-banner: ../banner.jpg
+description: "Análisis de la situación hídrica en el estado de Sinaloa."
+author: "Montse"
+date: "2025-04-23"
+categories: [análisis de datos, sinaloa]
+image: 1.png
+lightbox: true
+---
+
+![Nivel de las presas de Sinaloa](1.png){group="my-gallery"}
+
+¡Abril, cabrón! ¡Abril de 2025 es la clavada final en el corazón de este desmadre! ¡No es un mes más en el calendario, es el puto anuncio del fin!
+
+¡En abril tenemos los niveles de agua que en años pasados apenas se veían en junio y julio en los peores escenarios! ¡Y eso ya era una pinche pesadilla! ¡Pero ahora esa misma pesadilla llegó dos putos meses antes y se instaló en la realidad como un demonio sediento riéndose en nuestra cara!
+
+¡Esto no tiene madre! ¡No es normal, no es ciclo hidrológico, no es “cosas que pasan”!
+¡Esto es una puta alarma a todo volumen, una señal fluorescente de que la situación se fue a la mierda y nadie está frenando nada!
+
+¡Abril ya no es el inicio de la temporada seca —abril ahora es el epicentro del colapso!
+¡La sequía no nos está tocando la puerta, se metió a la casa, se cagó en la sala, y ahora se está cogiendo a todo lo que encuentra mientras los responsables se toman “fotos de trabajo” en conferencias que no sirven para ni verga!
+
+¿Qué chingados hicieron durante el 2024, ah?
+¡¿Qué prevención hubo?!
+¡Ninguna! ¡Solo inercia, silencio y planes de mierda que no aguantan ni una sequía de tres días!
+
+![Tabla con el diá con menor nivel de agua de cada año](2.png){group="my-gallery"}
+
+¡Abril de 2025 será recordado como el mes en que nos dio en la madre con todas las letras!
+¡Como el inicio de la sequía absoluta, del desastre anunciado!
+¡Y ni así se les cae la puta cara de vergüenza a los que nos dejaron llegar hasta aquí!
+
+¿Qué falta para que reaccionen?
+¿Que la laguna se vuelva cementerio?
+¿Que los niños hagan maquetas de presas vacías porque nunca han visto una llena?
+
+¡No, cabrón! ¡No más! ¡Abril de 2025 es la última llamada antes del colapso total!
+¡Y si no actuamos ahora, mañana ya no habrá nada que defender!
+
+🔥 ¡Que quede claro! 🔥
+¡Abril de 2025 no debe olvidarse jamás!
+¡Tiene que ser un grito perpetuo en la historia para que nunca más nos agarren con los pantalones abajo viendo evaporarse la vida!
