@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./favicon/png" rel="icon">
+<link href="./logo/png" rel="icon">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
@@ -48,14 +48,13 @@ ul.task-list li input[type="checkbox"] {
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
-  "type": "overlay",
+  "type": "textbox",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
     "/",
     "s"
   ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "Sin resultados",
     "search-matching-documents-text": "documentos encontrados",
@@ -148,6 +147,9 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./logo.png" alt="" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Blog de Montse | Datos, cultura e historia</span>
     </a>
@@ -159,18 +161,9 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">Acerca de</span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/lapanquecita"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="./about.html"> <i class="bi bi-person" role="img">
 </i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/lapanquecita"> <i class="bi bi-twitter" role="img">
-</i> 
-<span class="menu-text"></span></a>
+<span class="menu-text">Montse</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -185,7 +178,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(12)</span></div><div class="category" data-category="YW4lQzMlQTFsaXNpcyUyMGRlJTIwZGF0b3M=">análisis de datos <span class="quarto-category-count">(3)</span></div><div class="category" data-category="YmlvZ3JhZiVDMyVBRGE=">biografía <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y3VlbnRhJTIwcCVDMyVCQWJsaWNh">cuenta pública <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aGlzdG9yaWE=">historia <span class="quarto-category-count">(5)</span></div><div class="category" data-category="aW1hZ2Vu">imagen <span class="quarto-category-count">(2)</span></div><div class="category" data-category="c2FsdWQlMjBwJUMzJUJBYmxpY2E=">salud pública <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2luYWxvYQ==">sinaloa <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(15)</span></div><div class="category" data-category="YW4lQzMlQTFsaXNpcyUyMGRlJTIwZGF0b3M=">análisis de datos <span class="quarto-category-count">(3)</span></div><div class="category" data-category="YmlvZ3JhZiVDMyVBRGE=">biografía <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Y3VlbnRhJTIwcCVDMyVCQWJsaWNh">cuenta pública <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y3VlbnRv">cuento <span class="quarto-category-count">(3)</span></div><div class="category" data-category="aGlzdG9yaWE=">historia <span class="quarto-category-count">(5)</span></div><div class="category" data-category="aW1hZ2Vu">imagen <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bGl0ZXJhdHVyYQ==">literatura <span class="quarto-category-count">(10)</span></div><div class="category" data-category="c2FsdWQlMjBwJUMzJUJBYmxpY2E=">salud pública <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2luYWxvYQ==">sinaloa <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -213,8 +206,33 @@ window.Quarto = {
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Ordenar por</option>
+      <option value="index" data-direction="asc">Por defecto</option>
+      <option value="listing-title" data-direction="asc">
+        Título
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Fecha - Menos reciente
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Fecha - Más reciente
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Autor/a
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filtro">
+    </div>
+</div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="YmlvZ3JhZiVDMyVBRGE=" data-listing-date-sort="1746338400000" data-listing-file-modified-sort="1746416270800" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="385">
+<div class="g-col-1" data-index="0" data-categories="bGl0ZXJhdHVyYSUyQ2Jpb2dyYWYlQzMlQURh" data-listing-date-sort="1746338400000" data-listing-file-modified-sort="1746552615328" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="385">
 <a href="./posts/biografias/darth-plagueis.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
@@ -223,6 +241,8 @@ window.Quarto = {
 Darth Plagueis
 </h5>
 <div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bGl0ZXJhdHVyYQ=='); return false;">literatura</div>
 
 <div class="listing-category" onclick="window.quartoListingCategory('YmlvZ3JhZiVDMyVBRGE='); return false;">biografía</div>
 
@@ -241,7 +261,7 @@ Montse
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="aW1hZ2Vu" data-listing-date-sort="1746252000000" data-listing-file-modified-sort="1746419165527" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="1" data-categories="aW1hZ2Vu" data-listing-date-sort="1746252000000" data-listing-file-modified-sort="1746548328304" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="./posts/artwork/lechita.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -270,7 +290,7 @@ Montse
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="YmlvZ3JhZiVDMyVBRGE=" data-listing-date-sort="1746165600000" data-listing-file-modified-sort="1746416307247" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="403">
+<div class="g-col-1" data-index="2" data-categories="bGl0ZXJhdHVyYSUyQ2Jpb2dyYWYlQzMlQURh" data-listing-date-sort="1746165600000" data-listing-file-modified-sort="1746552579738" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="403">
 <a href="./posts/biografias/sor-juana.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
@@ -279,6 +299,8 @@ Montse
 Sor Juana
 </h5>
 <div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bGl0ZXJhdHVyYQ=='); return false;">literatura</div>
 
 <div class="listing-category" onclick="window.quartoListingCategory('YmlvZ3JhZiVDMyVBRGE='); return false;">biografía</div>
 
@@ -297,7 +319,7 @@ Montse
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="aW1hZ2Vu" data-listing-date-sort="1746079200000" data-listing-file-modified-sort="1746418787779" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="3" data-categories="aW1hZ2Vu" data-listing-date-sort="1746079200000" data-listing-file-modified-sort="1746548303876" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="./posts/artwork/bojack.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -326,7 +348,7 @@ Montse
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="YW4lQzMlQTFsaXNpcyUyMGRlJTIwZGF0b3MlMkNjdWVudGElMjBwJUMzJUJBYmxpY2E=" data-listing-date-sort="1745992800000" data-listing-file-modified-sort="1746418702851" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="388">
+<div class="g-col-1" data-index="4" data-categories="YW4lQzMlQTFsaXNpcyUyMGRlJTIwZGF0b3MlMkNjdWVudGElMjBwJUMzJUJBYmxpY2E=" data-listing-date-sort="1745992800000" data-listing-file-modified-sort="1746544256169" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="388">
 <a href="./posts/analisis/gasto-salud/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -357,7 +379,7 @@ Montse
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="YW4lQzMlQTFsaXNpcyUyMGRlJTIwZGF0b3MlMkNzYWx1ZCUyMHAlQzMlQkFibGljYQ==" data-listing-date-sort="1745906400000" data-listing-file-modified-sort="1746418440741" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="262">
+<div class="g-col-1" data-index="5" data-categories="YW4lQzMlQTFsaXNpcyUyMGRlJTIwZGF0b3MlMkNzYWx1ZCUyMHAlQzMlQkFibGljYQ==" data-listing-date-sort="1745906400000" data-listing-file-modified-sort="1746544299783" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="262">
 <a href="./posts/analisis/sarampion/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -388,11 +410,11 @@ Montse
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="aGlzdG9yaWE=" data-listing-date-sort="1745647200000" data-listing-file-modified-sort="1746487998604" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="595">
-<a href="./posts/historias/hambre-antigua.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="6" data-categories="bGl0ZXJhdHVyYSUyQ2N1ZW50bw==" data-listing-date-sort="1745647200000" data-listing-file-modified-sort="1746551359620" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="595">
+<a href="./posts/cuentos/hambre-antigua.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./posts/historias/hambre-antigua.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./posts/cuentos/hambre-antigua.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -400,7 +422,9 @@ El Hambgre Antigua
 </h5>
 <div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWE='); return false;">historia</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGl0ZXJhdHVyYQ=='); return false;">literatura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y3VlbnRv'); return false;">cuento</div>
 
 </div>
 <div class="card-text listing-description delink">
@@ -417,17 +441,19 @@ Montse
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="aGlzdG9yaWE=" data-listing-date-sort="1745560800000" data-listing-file-modified-sort="1746488086600" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="505">
-<a href="./posts/historias/misiles-cubanos.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="7" data-categories="bGl0ZXJhdHVyYSUyQ2hpc3Rvcmlh" data-listing-date-sort="1745560800000" data-listing-file-modified-sort="1746550614264" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="505">
+<a href="./posts/relatos/misiles-cubanos.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./posts/historias/misiles-cubanos.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./posts/relatos/misiles-cubanos.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Misiles Cubanos
 </h5>
 <div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bGl0ZXJhdHVyYQ=='); return false;">literatura</div>
 
 <div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWE='); return false;">historia</div>
 
@@ -446,17 +472,19 @@ Montse
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="aGlzdG9yaWE=" data-listing-date-sort="1745474400000" data-listing-file-modified-sort="1746488671537" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="452">
-<a href="./posts/historias/mkoften.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="8" data-categories="bGl0ZXJhdHVyYSUyQ2hpc3Rvcmlh" data-listing-date-sort="1745474400000" data-listing-file-modified-sort="1746550668270" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="452">
+<a href="./posts/relatos/mkoften.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./posts/historias/mkoften.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./posts/relatos/mkoften.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 MKOFTEN
 </h5>
 <div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bGl0ZXJhdHVyYQ=='); return false;">literatura</div>
 
 <div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWE='); return false;">historia</div>
 
@@ -475,7 +503,7 @@ Montse
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="YW4lQzMlQTFsaXNpcyUyMGRlJTIwZGF0b3MlMkNzaW5hbG9h" data-listing-date-sort="1745388000000" data-listing-file-modified-sort="1746489624633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="343">
+<div class="g-col-1" data-index="9" data-categories="YW4lQzMlQTFsaXNpcyUyMGRlJTIwZGF0b3MlMkNzaW5hbG9h" data-listing-date-sort="1745388000000" data-listing-file-modified-sort="1746543990486" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="343">
 <a href="./posts/analisis/crisis-hidrica-sinaloa/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -506,17 +534,50 @@ Montse
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="aGlzdG9yaWE=" data-listing-date-sort="1745301600000" data-listing-file-modified-sort="1746490225767" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="452">
-<a href="./posts/historias/telegrama-zimmermann.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="10" data-categories="bGl0ZXJhdHVyYSUyQ2hpc3Rvcmlh" data-listing-date-sort="1745301600000" data-listing-file-modified-sort="1746550566532" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="574">
+<a href="./posts/relatos/intervencion-francesa.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./posts/historias/telegrama-zimmermann.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./posts/relatos/intervencion-francesa.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Intervención Francesa
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bGl0ZXJhdHVyYQ=='); return false;">literatura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWE='); return false;">historia</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Lo que pasa por no pagar tus deudas.</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Montse
+</div>
+<div class="listing-date">
+22 abr 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="11" data-categories="bGl0ZXJhdHVyYSUyQ2hpc3Rvcmlh" data-listing-date-sort="1745301600000" data-listing-file-modified-sort="1746550632253" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="452">
+<a href="./posts/relatos/telegrama-zimmermann.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/relatos/telegrama-zimmermann.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Telegrama Zimmermann
 </h5>
 <div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bGl0ZXJhdHVyYQ=='); return false;">literatura</div>
 
 <div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWE='); return false;">historia</div>
 
@@ -535,11 +596,42 @@ Montse
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="11" data-categories="aGlzdG9yaWE=" data-listing-date-sort="1745128800000" data-listing-file-modified-sort="1746490783302" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="522">
-<a href="./posts/historias/juicio-tren.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="12" data-categories="bGl0ZXJhdHVyYSUyQ2hpc3Rvcmlh" data-listing-date-sort="1745215200000" data-listing-file-modified-sort="1746550652653" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="508">
+<a href="./posts/relatos/soriana.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./posts/historias/juicio-tren.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./posts/relatos/soriana.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Soriana
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bGl0ZXJhdHVyYQ=='); return false;">literatura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWE='); return false;">historia</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Una historia de éxito.</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Montse
+</div>
+<div class="listing-date">
+21 abr 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="13" data-categories="bGl0ZXJhdHVyYSUyQ2N1ZW50bw==" data-listing-date-sort="1745128800000" data-listing-file-modified-sort="1746551341897" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="522">
+<a href="./posts/cuentos/juicio-tren.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/cuentos/juicio-tren.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -547,7 +639,9 @@ El Juicio del Tren
 </h5>
 <div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('aGlzdG9yaWE='); return false;">historia</div>
+<div class="listing-category" onclick="window.quartoListingCategory('bGl0ZXJhdHVyYQ=='); return false;">literatura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y3VlbnRv'); return false;">cuento</div>
 
 </div>
 <div class="card-text listing-description delink">
@@ -559,6 +653,37 @@ Montse
 </div>
 <div class="listing-date">
 20 abr 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="14" data-categories="bGl0ZXJhdHVyYSUyQ2N1ZW50bw==" data-listing-date-sort="1744783200000" data-listing-file-modified-sort="1746551657728" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="672">
+<a href="./posts/cuentos/ardio-la-tierra.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/cuentos/ardio-la-tierra.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Por donde ardió la tierra
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('bGl0ZXJhdHVyYQ=='); return false;">literatura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y3VlbnRv'); return false;">cuento</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>El infierno en la tierra.</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Montse
+</div>
+<div class="listing-date">
+16 abr 2025
 </div>
 </div>
 </div>
