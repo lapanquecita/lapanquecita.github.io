@@ -1,7 +1,7 @@
 ---
-title: "No se enfermen"
+title: "Evolución del gasto en salud pública de México"
 title-block-banner: ../banner.jpg
-description: "Análisis sobre el gasto en salud pública del gobierno mexicano."
+description: "Análisis sobre el gasto en salud pública del Gobierno Federal."
 author: "Montse"
 date: "2025-04-30"
 categories: [análisis de datos, cuenta pública]
@@ -9,7 +9,7 @@ image: 1.png
 lightbox: true
 ---
 
-![O te mueres](1.png)
+![Estábamos mejor cuando estábamos peor](1.png)
 
 ¡PINCHES INÚTILES, MALPARIDOS, ASESINOS CON CORBATA! ¡VEAN ESA MIERDA DE GRÁFICA!
 

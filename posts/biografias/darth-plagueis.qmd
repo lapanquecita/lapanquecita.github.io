@@ -5,6 +5,7 @@ description: "La historia de Darth Plagueis el Sabio."
 author: "Montse"
 date: "2025-05-04"
 categories: [literatura, biografía]
+image: darth-plagueis.jpg
 ---
 
 Hace un chingo de años, en una galaxia bien pinche lejana y más corrupta que una alcaldía chafa, vivía un cabrón que se llamaba **Darth Plagueis**, pero todos le decían **el puto sabio**, porque el güey era una pinche verga con la Fuerza. Neta, el vato no era cualquier Sith de esos que nomás andan haciendo ojitos malos. No, este cabrón *descifró cómo chingados vencer a la pinche muerte*. ¿Te imaginas? El güey podía revivir banda, evitar que la gente la palmara, y hasta crear vida desde la nada. ¡Así de puerquísimo estaba el pedo!

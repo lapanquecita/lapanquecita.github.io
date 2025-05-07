@@ -69,6 +69,7 @@
   <category>biografía</category>
   <guid>https://lapanquecita.github.io/posts/biografias/darth-plagueis.html</guid>
   <pubDate>Sun, 04 May 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://lapanquecita.github.io/posts/biografias/darth-plagueis.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Lechita</title>
@@ -121,6 +122,7 @@
   <category>biografía</category>
   <guid>https://lapanquecita.github.io/posts/biografias/sor-juana.html</guid>
   <pubDate>Fri, 02 May 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://lapanquecita.github.io/posts/biografias/sor-juana.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>BoJack</title>
@@ -148,7 +150,7 @@
   <media:content url="https://lapanquecita.github.io/posts/artwork/bojack.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>No se enfermen</title>
+  <title>Evolución del gasto en salud pública de México</title>
   <dc:creator>Montse </dc:creator>
   <link>https://lapanquecita.github.io/posts/analisis/gasto-salud/</link>
   <description><![CDATA[ 
@@ -159,8 +161,8 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="O te mueres"><img src="https://lapanquecita.github.io/posts/analisis/gasto-salud/1.png" class="img-fluid figure-img" alt="O te mueres"></a></p>
-<figcaption>O te mueres</figcaption>
+<p><a href="1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Estábamos mejor cuando estábamos peor"><img src="https://lapanquecita.github.io/posts/analisis/gasto-salud/1.png" class="img-fluid figure-img" alt="Estábamos mejor cuando estábamos peor"></a></p>
+<figcaption>Estábamos mejor cuando estábamos peor</figcaption>
 </figure>
 </div>
 <p>¡PINCHES INÚTILES, MALPARIDOS, ASESINOS CON CORBATA! ¡VEAN ESA MIERDA DE GRÁFICA!</p>
@@ -187,9 +189,9 @@
   <media:content url="https://lapanquecita.github.io/posts/analisis/gasto-salud/1.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
-  <title>El sarampión ha regresado</title>
+  <title>Incidencia de sarampión en Chihuahua durante el 2025</title>
   <dc:creator>Montse </dc:creator>
-  <link>https://lapanquecita.github.io/posts/analisis/sarampion/</link>
+  <link>https://lapanquecita.github.io/posts/analisis/sarampion-chihuahua-2025/</link>
   <description><![CDATA[ 
 
 
@@ -198,7 +200,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="1.png" class="lightbox" data-gallery="my-gallery" title="Mapa choropleth de Chihuahua"><img src="https://lapanquecita.github.io/posts/analisis/sarampion/1.png" class="img-fluid figure-img" alt="Mapa choropleth de Chihuahua"></a></p>
+<p><a href="1.png" class="lightbox" data-gallery="my-gallery" title="Mapa choropleth de Chihuahua"><img src="https://lapanquecita.github.io/posts/analisis/sarampion-chihuahua-2025/1.png" class="img-fluid figure-img" alt="Mapa choropleth de Chihuahua"></a></p>
 <figcaption>Mapa choropleth de Chihuahua</figcaption>
 </figure>
 </div>
@@ -206,7 +208,7 @@
 <p>¡¿QUÉ CLASE DE PAÍS DE MIERDA PERMITE QUE UNA ENFERMEDAD DEL SIGLO XIX SE PASEE OTRA VEZ COMO PEDRO POR SU CASA EN PLENO 2025?! ¡¿EN QUÉ PUTO MOMENTO NOS VOLVIMOS TAN ESTÚPIDOS COMO SOCIEDAD?!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="2.png" class="lightbox" data-gallery="my-gallery" title="Tabla Chihuahua"><img src="https://lapanquecita.github.io/posts/analisis/sarampion/2.png" class="img-fluid figure-img" alt="Tabla Chihuahua"></a></p>
+<p><a href="2.png" class="lightbox" data-gallery="my-gallery" title="Tabla Chihuahua"><img src="https://lapanquecita.github.io/posts/analisis/sarampion-chihuahua-2025/2.png" class="img-fluid figure-img" alt="Tabla Chihuahua"></a></p>
 <figcaption>Tabla Chihuahua</figcaption>
 </figure>
 </div>
@@ -215,7 +217,7 @@
 <p>¿Y los gobiernos? Bien, gracias. Sentados con el dedo metido en el culo mientras los programas de salud pública se desmoronan, mientras los centros de salud están vacíos o desabastecidos, mientras la niñez se enferma por la absoluta ineptitud de todos los niveles de autoridad.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="3.png" class="lightbox" data-gallery="my-gallery" title="Distribución por sexo y edad"><img src="https://lapanquecita.github.io/posts/analisis/sarampion/3.png" class="img-fluid figure-img" alt="Distribución por sexo y edad"></a></p>
+<p><a href="3.png" class="lightbox" data-gallery="my-gallery" title="Distribución por sexo y edad"><img src="https://lapanquecita.github.io/posts/analisis/sarampion-chihuahua-2025/3.png" class="img-fluid figure-img" alt="Distribución por sexo y edad"></a></p>
 <figcaption>Distribución por sexo y edad</figcaption>
 </figure>
 </div>
@@ -229,9 +231,9 @@
   <category>análisis de datos</category>
   <category>salud pública</category>
   <category>chihuahua</category>
-  <guid>https://lapanquecita.github.io/posts/analisis/sarampion/</guid>
+  <guid>https://lapanquecita.github.io/posts/analisis/sarampion-chihuahua-2025/</guid>
   <pubDate>Tue, 29 Apr 2025 06:00:00 GMT</pubDate>
-  <media:content url="https://lapanquecita.github.io/posts/analisis/sarampion/1.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="https://lapanquecita.github.io/posts/analisis/sarampion-chihuahua-2025/1.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>El Hambre Antigua</title>

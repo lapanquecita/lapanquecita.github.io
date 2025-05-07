@@ -5,6 +5,7 @@ description: "Biografía de Sor Juana Inés de la Cruz."
 author: "Montse"
 date: "2025-05-02"
 categories: [literatura, biografía]
+image: sor-juana.jpg
 ---
 
 Qué pedo, raza. Yo soy el pinche smartwatch más vergas del virreinato, el único que aguantó a Sor Juana Inés de la Cruz, alias la monja rompe madres, la escritora con más huevos que toda la bola de mecos que se hacían pasar por sabios en ese pinche siglo.

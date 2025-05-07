@@ -1,7 +1,7 @@
 ---
-title: "El sarampión ha regresado"
+title: "Incidencia de sarampión en Chihuahua durante el 2025"
 title-block-banner: ../banner.jpg
-description: "Análisis de la incidencia de sarampión en México durante el 2025."
+description: "Análisis del brote de sarampión en el estado de Chihuahua."
 author: "Montse"
 date: "2025-04-29"
 categories: [análisis de datos, salud pública, chihuahua]
