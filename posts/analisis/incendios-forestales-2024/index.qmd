@@ -4,7 +4,7 @@ title-block-banner: ../banner.jpg
 description: "Análisis de las causas de incendios forestales en el país durante el 2024."
 author: "Montse"
 date: "2025-04-08"
-categories: [análisis de datos, medio ambiente, incedios forestales]
+categories: [análisis de datos, medio ambiente, incendios forestales]
 image: 1.png
 lightbox: true
 ---

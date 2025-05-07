@@ -23,6 +23,5 @@ website:
 lang: es-MX
 format:
   html:
-    sharing: [twitter, facebook]
     theme: darkly
     css: styles.css
