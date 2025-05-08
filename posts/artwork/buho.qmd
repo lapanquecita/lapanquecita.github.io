@@ -1,0 +1,12 @@
+---
+title: "Anoche hubo luna ed sangre"
+title-block-banner: banner.jpg
+description: "Y este búho lo sabe."
+author: "Montse"
+date: "2025-03-14"
+categories: [imagen]
+image: buho.jpg
+lightbox: true
+---
+
+![2spooky4me](buho.jpg)

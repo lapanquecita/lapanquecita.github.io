@@ -1,0 +1,12 @@
+---
+title: "Yarr!"
+title-block-banner: banner.jpg
+description: "Este sí descargó un carro."
+author: "Montse"
+date: "2025-03-23"
+categories: [imagen]
+image: pulpo.jpg
+lightbox: true
+---
+
+![Pero no robó su tesis](pulpo.jpg)

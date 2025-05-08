@@ -1,0 +1,12 @@
+---
+title: "Hoy empezó la primavera"
+title-block-banner: banner.jpg
+description: "Y la temporada de sequía extrema."
+author: "Montse"
+date: "2025-03-20"
+categories: [imagen]
+image: sol.jpg
+lightbox: true
+---
+
+![Luismi](sol.jpg)

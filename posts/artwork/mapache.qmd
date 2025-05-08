@@ -1,0 +1,12 @@
+---
+title: "!atraco"
+title-block-banner: banner.jpg
+description: "Este mapache me representa."
+author: "Montse"
+date: "2025-03-22"
+categories: [imagen]
+image: mapache.jpg
+lightbox: true
+---
+
+![Mapachao](mapache.jpg)

@@ -1,0 +1,12 @@
+---
+title: "El Tucán de Tijuana"
+title-block-banner: banner.jpg
+description: "Donde comienza la patria."
+author: "Montse"
+date: "2025-03-16"
+categories: [imagen]
+image: tucan.jpg
+lightbox: true
+---
+
+![Es real](tucan.jpg)

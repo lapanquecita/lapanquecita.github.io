@@ -1,0 +1,12 @@
+---
+title: "Bat Ops"
+title-block-banner: banner.jpg
+description: "Rabid Warfare."
+author: "Montse"
+date: "2025-01-20"
+categories: [imagen]
+image: bat.jpg
+lightbox: true
+---
+
+![Ahora ya sabes como ven en la oscuridad](bat.jpg)

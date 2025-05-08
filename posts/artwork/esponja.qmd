@@ -1,0 +1,12 @@
+---
+title: "Bob, Patricio y Eugenio"
+title-block-banner: banner.jpg
+description: "El live action que no pediste."
+author: "Montse"
+date: "2025-03-21"
+categories: [imagen]
+image: esponja.jpg
+lightbox: true
+---
+
+![Así como los demás](esponja.jpg)

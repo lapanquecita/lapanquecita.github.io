@@ -1,0 +1,12 @@
+---
+title: "Rey León"
+title-block-banner: banner.jpg
+description: "Rey de la sabana, no de la selva."
+author: "Montse"
+date: "2025-01-10"
+categories: [imagen]
+image: leon.jpg
+lightbox: true
+---
+
+![Su majestad](leon.jpg)

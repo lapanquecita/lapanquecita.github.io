@@ -1,0 +1,12 @@
+---
+title: "Vamos a desayunar"
+title-block-banner: banner.jpg
+description: "100% natural."
+author: "Montse"
+date: "2025-03-15"
+categories: [imagen]
+image: gallina.jpg
+lightbox: true
+---
+
+![Yum](gallina.jpg)

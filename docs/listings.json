@@ -30,7 +30,14 @@
       "/posts/cuentos/bambi.html",
       "/posts/analisis/actividad-sismica/index.html",
       "/posts/artwork/hot-dog.html",
+      "/posts/artwork/pulpo.html",
+      "/posts/artwork/mapache.html",
+      "/posts/artwork/esponja.html",
+      "/posts/artwork/sol.html",
       "/posts/cuentos/juan.html",
+      "/posts/artwork/tucan.html",
+      "/posts/artwork/gallina.html",
+      "/posts/artwork/buho.html",
       "/posts/cuentos/diana.html",
       "/posts/cuentos/ultima-reparacion.html",
       "/posts/cuentos/bajo-la-ciudad.html",
@@ -38,7 +45,9 @@
       "/posts/biografias/juana-de-arco.html",
       "/posts/cuentos/patito-feo.html",
       "/posts/cuentos/caperucita-roja.html",
-      "/posts/biografias/mio-cid.html"
+      "/posts/biografias/mio-cid.html",
+      "/posts/artwork/bat.html",
+      "/posts/artwork/leon.html"
     ]
   }
 ]
