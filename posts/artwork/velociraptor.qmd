@@ -1,0 +1,12 @@
+---
+title: "Yum"
+title-block-banner: banner.jpg
+description: "Nadie se resiste."
+author: "Montse"
+date: "2025-01-25"
+categories: [imagen]
+image: velociraptor.jpg
+lightbox: true
+---
+
+![Diabetes esponjosa](velociraptor.jpg)

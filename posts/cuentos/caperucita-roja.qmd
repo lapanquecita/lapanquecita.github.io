@@ -1,5 +1,5 @@
 ---
-title: "Caperucita roja"
+title: "Caperucita Roja"
 title-block-banner: banner.jpg
 description: "Para leerte mejor."
 author: "Montse"

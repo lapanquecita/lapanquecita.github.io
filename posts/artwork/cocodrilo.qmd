@@ -1,0 +1,12 @@
+---
+title: "Disfrutando el puente"
+title-block-banner: banner.jpg
+description: "Like a boss."
+author: "Montse"
+date: "2025-03-17"
+categories: [imagen]
+image: cocodrilo.jpg
+lightbox: true
+---
+
+![No molestar](cocodrilo.jpg)

@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/cuentos/10-plagas-egipto.html",
       "/posts/analisis/cuenta-publica-2024/index.html",
       "/posts/biografias/darth-plagueis.html",
       "/posts/artwork/lechita.html",
@@ -34,6 +35,9 @@
       "/posts/artwork/mapache.html",
       "/posts/artwork/esponja.html",
       "/posts/artwork/sol.html",
+      "/posts/artwork/toro.html",
+      "/posts/cuentos/becerro-oro.html",
+      "/posts/artwork/cocodrilo.html",
       "/posts/cuentos/juan.html",
       "/posts/artwork/tucan.html",
       "/posts/artwork/gallina.html",
@@ -46,6 +50,7 @@
       "/posts/cuentos/patito-feo.html",
       "/posts/cuentos/caperucita-roja.html",
       "/posts/biografias/mio-cid.html",
+      "/posts/artwork/velociraptor.html",
       "/posts/artwork/bat.html",
       "/posts/artwork/leon.html"
     ]

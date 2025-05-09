@@ -1,0 +1,12 @@
+---
+title: "Ahora los toros tendrán más tiempo libre"
+title-block-banner: banner.jpg
+description: "Al menos en la CDMX."
+author: "Montse"
+date: "2025-03-19"
+categories: [imagen]
+image: toro.jpg
+lightbox: true
+---
+
+![De tu arte a mi arte](toro.jpg)
