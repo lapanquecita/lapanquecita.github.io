@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/analisis/exportacion-vehiculos-ligeros-abril-2025/index.html",
       "/posts/cuentos/10-plagas-egipto.html",
       "/posts/analisis/cuenta-publica-2024/index.html",
       "/posts/biografias/darth-plagueis.html",
@@ -51,8 +52,10 @@
       "/posts/cuentos/caperucita-roja.html",
       "/posts/biografias/mio-cid.html",
       "/posts/artwork/velociraptor.html",
+      "/posts/relatos/decena-tragica.html",
       "/posts/artwork/bat.html",
-      "/posts/artwork/leon.html"
+      "/posts/artwork/leon.html",
+      "/posts/cuentos/silencio-final.html"
     ]
   }
 ]
