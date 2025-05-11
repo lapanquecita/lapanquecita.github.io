@@ -1,0 +1,12 @@
+---
+title: "Dios no le da alas a los alacranes"
+title-block-banner: banner.jpg
+description: "Pero aquí estamos."
+author: "Montse"
+date: "2025-02-01"
+categories: [imagen]
+image: escorpion.jpg
+lightbox: true
+---
+
+![Dios ha muerto](escorpion.jpg)
