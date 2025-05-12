@@ -7,6 +7,12 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/lapanquecita
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/lapankecita
+    - icon: bluesky
+      text: B;uesky
+      href: https://montse.bsky.social
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/lapanquecita
