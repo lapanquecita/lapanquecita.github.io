@@ -1,0 +1,34 @@
+---
+title: "Estadísticas de Metrorrey"
+title-block-banner: ../banner.jpg
+description: "Análisis de la afluencia de pasajeros en el Sistema de Transporte Colectivo Metrorrey."
+author: "Montse"
+date: "2025-05-16"
+categories: [análisis de datos, transporte, nuevo león]
+image: 1.png
+lightbox: true
+---
+
+![Pasajeros](1.png){group="my-gallery"}
+
+¿¡Cómo vergas dejas que una pinche obra que le costó años, sudor y presupuesto público se desmorone como si fuera hecha con pinche cartón!?
+¡¿De qué puta madera están hechos los cerebros de los que administran esto!? ¿¡De telgopor!?
+
+¡Pinche gráfica parece tobogán de la vergüenza! De 190 millones a pinches 90 en cinco años. ¡Ni en una película de desastres se ve un colapso tan puercamente perfecto! ¡Eso no es falta de presupuesto, eso es ser una bola de inútiles que se masturban con el cargo en vez de trabajar!
+
+¿Y la raza? ¡Chingándole diario, esperando un puto tren que nunca llega, oliendo a humanidad, empujados, sudados, vulnerables, mientras ustedes, cúpula de ratas, se pasean en carros blindados y nos dan pinches excusas de “reparaciones”!
+¡Reparaciones tus huevos! ¡Esto no es una fuga de agua, esto es una puta fuga de dignidad!
+
+Y ni hablemos de los “pinchazos”. ¿Neta? ¿Ahora subirse al metro es como jugar ruleta rusa con jeringas? ¡A la chingada con su “seguridad”! ¡Que se metan sus cámaras y sus rondines por el culo si no sirven pa’ ni madres!
+
+¡Y todavía quieren construir más líneas, no mamen! ¿¡Para qué, putos!? ¿¡Para tener más líneas donde no funcione nada, donde todo se caiga, donde el pueblo siga pagando el puto precio de su mediocridad!?
+
+![Trenes](2.png){group="my-gallery"}
+
+¡Ya está bueno de tanta simulación!
+¡No queremos influencers en el gobierno, queremos gente que no sea un puto cáncer para el transporte!
+¡Queremos un metro que no se caiga, que no se agriete, que no dé miedo!
+¡Queremos un puto metro digno, y lo queremos ya!
+
+¡Porque el pueblo no es pendejo, pero ustedes sí son una bola de cínicos hijos de la chingada!
+¡A la verga con sus “planes”, a la verga con su corrupción, y a la verga con su pinche descaro!
