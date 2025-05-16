@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/biografias/caligula.html",
       "/posts/recetas/ensalada-rusa.html",
       "/posts/fabulas/tortuga-liebre.html",
       "/posts/analisis/exportacion-vehiculos-ligeros-abril-2025/index.html",
@@ -68,6 +69,7 @@
       "/posts/artwork/leon.html",
       "/posts/fabulas/perro-dos-tortas.html",
       "/posts/cuentos/flautista-hamelin.html",
+      "/posts/recetas/hot-cakes.html",
       "/posts/cuentos/silencio-final.html"
     ]
   }
