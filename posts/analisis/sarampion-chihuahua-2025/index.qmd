@@ -4,6 +4,7 @@ title-block-banner: ../banner.jpg
 description: "Análisis del brote de sarampión en el estado de Chihuahua."
 author: "Montse"
 date: "2025-04-29"
+date-modified: "2025-05-21"
 categories: [análisis de datos, salud pública, chihuahua]
 image: 1.png
 lightbox: true
@@ -11,27 +12,18 @@ lightbox: true
 
 ![Mapa choropleth de Chihuahua](1.png){group="my-gallery"}
 
-¡¿CÓMO CHINGADOS PERMITIMOS QUE EL SARAMPIÓN REGRESARA, MÉXICO?!
+¡A la verga todo, cabrón! ¿Qué chingados está pasando en Chihuahua? ¿Nos estamos yendo directo al culo del mundo o qué vergas? ¡Cómo carajos es posible que haya municipios llenos de sarampión como si estuviéramos en el puto siglo XIX! ¡¿Neta, güey?! ¡¿En pleno 2025 y estamos dejando que el pinche sarampión nos parta la madre!?
 
-¡¿QUÉ CLASE DE PAÍS DE MIERDA PERMITE QUE UNA ENFERMEDAD DEL SIGLO XIX SE PASEE OTRA VEZ COMO PEDRO POR SU CASA EN PLENO 2025?! ¡¿EN QUÉ PUTO MOMENTO NOS VOLVIMOS TAN ESTÚPIDOS COMO SOCIEDAD?!
+¡Riva Palacio con una tasa de 634.6! ¡No mames, eso ya ni es brote, es un puto desmadre de salubridad! ¿Quién chingados está al mando ahí, un burro disfrazado de presidente municipal o qué pedo? ¡Y los demás igual de jodidos! Cuauhtémoc, Ahumada, Namiquipa... ¡Parecen pinches zonas de guerra viral, carajo!
 
 ![Tabla Chihuahua](2.png){group="my-gallery"}
 
-¡Chihuahua tiene más de 560 casos de sarampión! Y no, no es una exageración — hay municipios con tasas que rebasan los 187 casos por cada 100,000 habitantes. ¡Esto no es una alerta, es una pinche SIRENA A TODO VOLUMEN y nadie parece estar haciendo un carajo!
+¡A ver, pendejos! ¿Dónde están las putas vacunas? ¿Dónde están las campañas, los brigadistas, el pinche sistema de salud que según esto "nos cuida"? ¡Puros cuentos, pura mamada! Están más ocupados viendo cómo se roban lo poco que queda del presupuesto que en evitar que medio estado termine tosiendo sangre y llenos de ronchas.
 
-¿Qué chingados pasó con las vacunas?
-¿Dónde está la gente con dos neuronas que antes sabía que la pinche vacuna del sarampión era obligatoria? ¿Dónde están los padres que no eran tan imbéciles como para creerle a un pinche video de Facebook antes que a décadas de ciencia médica?
-
-¿Y los gobiernos? Bien, gracias. Sentados con el dedo metido en el culo mientras los programas de salud pública se desmoronan, mientras los centros de salud están vacíos o desabastecidos, mientras la niñez se enferma por la absoluta ineptitud de todos los niveles de autoridad.
+¡Y no me vengan con que "es que la gente no se quiere vacunar"! ¡Háganse responsables, pinches inútiles! Su chamba es evitar esta mierda. ¿Qué están haciendo? ¿Pasando PowerPoints en oficinas con aire acondicionado mientras allá afuera la gente se contagia como si fuera pinche promoción de sarampión 2x1?
 
 ![Distribución por sexo y edad](3.png){group="my-gallery"}
 
-¡LOS NIÑOS SON LOS QUE ESTÁN PAGANDO ESTA JODIDA PANDEMIA DE IGNORANCIA!
-No tienen culpa de tener padres antivacunas, ni culpa de vivir en un país donde las prioridades están volteadas al revés como calzón sucio.
+¡Esto no es un pinche chisme! ¡Es una crisis de salud pública y la están dejando crecer como si fuera maleza! Y cuando todo explote, cuando los hospitales estén hasta el pito y empiecen a morir niños que ni la deben ni la temen, ahí van a salir los pendejos de siempre a decir que "nadie lo vio venir". ¡A chingar a su madre! ¡Aquí está, ya lo estamos viendo, y no hacen ni verga!
 
-¡BASTA DE SER TAN PENDEJOS!
-VACÚNENSE. EXIJAN. LEVANTEN LA VOZ.
-O vayan y díganle a una familia que perdió a su hijo por sarampión que “era su libertad no vacunar”. A ver si les alcanza el cinismo.
-
-Esto ya no es negligencia.
-Es un crimen social.
+¡Ya basta de tanta pinche mediocridad! ¡Chihuahua no es el basurero sanitario del país, pero ustedes están haciendo todo lo posible por que lo parezca! ¡Pónganse a trabajar, bola de zánganos incompetentes, o váyanse a la chingada!
