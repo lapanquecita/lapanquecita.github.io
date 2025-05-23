@@ -1,0 +1,32 @@
+---
+title: "Casos confirmados de sarampión en México durante 2025"
+title-block-banner: ../banner.jpg
+description: "Análisis de la composición y evolución de casos confirmados de sarampión."
+author: "Montse"
+date: "2025-05-23"
+categories: [análisis de datos, salud pública]
+image: 1.png
+lightbox: true
+---
+
+![Sankey](1.png){group="my-gallery"}
+
+¿¡1,324 cabrones sin vacunar en 2025!? ¡No mames, México! ¿Qué verga nos pasa? ¡Es como ver a alguien cagarse encima y presumirlo en Instagram!
+
+Esto no es una pinche teoría de conspiración, no es una trama de Netflix, es gente rechazando una vacuna que lleva décadas salvando vidas. ¡Vidas, culeros, vidas! ¿¡Qué puta parte de eso no entienden!?
+
+Tenemos 1,520 casos de sarampión, y 87% son pendejos que no están vacunados. ¡No pinche vacunados! Y de esos, 158 acabaron con complicaciones que no son gripa: son neumonía, encefalitis, laringotraqueobronquitis —¡esa madre ni se pronuncia bien y ya te estás muriendo nomás de escucharla!
+
+¡Y se murieron 4 personas! ¡Cuatro vidas que se fueron a la chingada por culpa de la ignorancia y la terquedad de gente que prefiere creerle a un hippilongo en YouTube que a los profesionales de la salud!
+
+¡Mientras los que sí se vacunaron, 196 personas, salieron prácticamente ilesas! Solo 11 tuvieron alguna complicación leve, y nadie —¡ni uno solo!— se murió. ¿¡Ven la puta diferencia o necesitan un pinche mapa!?
+
+![Tendencia](2.png){group="my-gallery"}
+
+Esto no es una pinche opinión, es ciencia, es estadística, es sentido común —que al parecer, está más muerto que las neuronas de los antivacunas.
+
+¡A la verga con su libertad mal entendida! ¡Esto no es "mi cuerpo, mi decisión" si estás contagiando a los demás, pendejo! No quieres vacunarte, pues enciérrate en tu casa y no salgas ni para cagar.
+
+¡Y dejen de andar regando su pinche ignorancia como si fuera semilla de mostaza! ¡No nos estamos muriendo de un castigo divino, nos estamos muriendo de pendejismo colectivo!
+
+Así que ya estuvo suave, hijos de la chingada. O se vacunan, o que el sarampión se los lleve, pero no arrastren a los demás con ustedes. ¡Ya basta de ser un pueblo que prefiere creerle a la cadena del tío Pancho que a la puta ciencia!

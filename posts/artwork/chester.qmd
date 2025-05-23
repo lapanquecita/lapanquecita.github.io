@@ -1,0 +1,12 @@
+---
+title: "Chester"
+title-block-banner: banner.jpg
+description: "El de las papitas naranjas."
+author: "Montse"
+date: "2025-05-22"
+categories: [imagen]
+image: chester.jpg
+lightbox: true
+---
+
+![😎](chester.jpg)
