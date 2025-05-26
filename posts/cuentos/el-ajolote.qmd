@@ -3,7 +3,7 @@ title: "El Ajolote"
 title-block-banner: banner.jpg
 description: "Basado en hechos reales."
 author: "Montse"
-date: "2025-05-24"
+date: "2025-05-23"
 categories: [literatura, cuento]
 image: el-ajolote.jpg
 ---

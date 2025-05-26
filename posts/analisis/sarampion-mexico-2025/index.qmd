@@ -3,7 +3,7 @@ title: "Casos confirmados de sarampión en México durante 2025"
 title-block-banner: ../banner.jpg
 description: "Análisis de la composición y evolución de casos confirmados de sarampión."
 author: "Montse"
-date: "2025-05-23"
+date: "2025-05-22"
 categories: [análisis de datos, salud pública]
 image: 1.png
 lightbox: true

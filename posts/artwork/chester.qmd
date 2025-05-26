@@ -1,9 +1,9 @@
 ---
 title: "Chester"
 title-block-banner: banner.jpg
-description: "El de las papitas naranjas."
+description: "El de las frituritas naranjas."
 author: "Montse"
-date: "2025-05-22"
+date: "2025-05-18"
 categories: [imagen]
 image: chester.jpg
 lightbox: true

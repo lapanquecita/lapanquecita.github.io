@@ -3,7 +3,7 @@ title: "Pizza de Pepperoni"
 title-block-banner: banner.jpg
 description: "Clásica y llena de sabor."
 author: "Montse"
-date: "2025-05-26"
+date: "2025-05-25"
 categories: [receta]
 image: pizza-pepperoni.jpg
 ---
@@ -19,7 +19,7 @@ image: pizza-pepperoni.jpg
 
 ---
 
-### 🧄 SALSA QUE SÍ PATEA MADRES:
+### 🧄 SALSA QUE SÍ ROMPE MADRES:
 
 * 1 taza de puré de tomate (NO CÁTSUP, cabrón, ¿qué eres? ¿un niño rata?)
 * 2 dientes de ajo bien picados (como tus sueños frustrados)
