@@ -1,0 +1,32 @@
+---
+title: "Gasto anual del Gobierno Federal de México en vacunación"
+title-block-banner: ../banner.jpg
+description: "Análisis del gasto anual de la partida presupuestaria 'Programa de vacunación'."
+author: "Montse"
+date: "2025-05-28"
+categories: [análisis de datos, cuenta pública, salud pública]
+image: 1.png
+lightbox: true
+---
+
+![Precios corrientes](1.png){group="my-gallery"}
+
+¡¿¡Cómo putas es posible que te den 14 mil millones de varos y te sientes a pelarte la riata sin mover un dedo!? ¡¡No mames!! ¡Estos culeros tienen el dinero en las manos, y lo dejan pudrirse en el pinche presupuesto como si fuera cacahuate rancio!
+
+¡2022, 2023 y 2024 son una pinche catedral de la inep-ti-tud! ¡Aprobaron 30 mil millones en 2022 y los pendejazos gastaron solo el 25%... ¡Veinticinco porciento, no mames! ¡Ni en una borrachera de funcionarios se malgasta tanto potencial!
+
+¡Pero no! ¡No se malgasta, se *no* usa! ¡Se deja guardado mientras la gente se va a la mierda sin vacunas, sin logística, sin nada, porque a estos hijos de la verga les vale tres kilos de pito!
+
+¿Qué son, pinches funcionarios o decoración de oficina? ¡¡Si no van a usar el pinche dinero, que se larguen a la verga!! ¡¡Vayan a vender tlayudas o a poner un Oxxo, pero no estén chingando en la administración pública con su pinche mediocridad de cuarta!!
+
+¡Y luego se atreven a presumir austeridad! ¡Váyanse a la recontra verga con su austeridad de mierda! ¡Eso no es austeridad, es abandono, es incompetencia envuelta en palabrería politiquera barata!
+
+¡Es un pinche crimen no usar ese dinero! ¡Es una hijaputez que debería meterlos a todos en el bote! ¡Cada maldita vacuna que no se compró, cada madre de familia que tuvo que pagar de su bolsillo, cada abuelo que no llegó al refuerzo, todo eso es culpa de ustedes, cabrones!
+
+![Precios constantes](2.png){group="my-gallery"}
+
+¡Que no se hagan pendejos! ¡No son fallos técnicos, no es falta de tiempo, es pura huevonería y desprecio por el pueblo!
+
+¡¡¡Váyanse a la verga con su subejercicio de mierda!!! ¡¡Métanselo por donde les quepa y no vuelvan a decir que "están trabajando" porque no hacen ni mierda!!
+
+¡¡Hijos de la rechingadísima puta madre!!!
