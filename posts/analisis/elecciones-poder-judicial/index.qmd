@@ -1,0 +1,31 @@
+---
+title: "Elecciones del Poder Judicial (Suprema Corte, 2025)"
+title-block-banner: ../banner.jpg
+description: "Análisis de los resultados en las elecciones del Poder Judicial para ministros de la SCJN."
+author: "Montse"
+date: "2025-06-05"
+categories: [análisis de datos, elecciones]
+image: 1.png
+lightbox: true
+---
+
+![Mapa choropleth](1.png){group="my-gallery"}
+
+Esta pinche “elección” fue la mamada más monumental que ha parido el sistema en décadas. ¡Una pinche tomadura de pelo envuelta en papel de baño usado! ¿13% de participación? ¡NO MAMEN! Eso no es una elección, es una mentada de madre colectiva. ¡Un GRITO silenciado que dice: “Váyanse a chingar a su reputísima madre con todo y sus urnas vacías”!
+
+Nos quisieron ver la cara, como siempre, pero esta vez el pueblo les escupió en la jeta con abstención. *¡Y qué bueno, cabrones!* Porque esta farsa no merece ni un pinche segundo de nuestra atención, mucho menos nuestra participación. ¿Quién verga se tragó la idea de que votar por jueces es “empoderamiento del pueblo”? ¡Háganme el puto favor! ¡No seas mamón! ¡Nomás faltó que nos pidieran votar por el clima!
+
+Esto fue un puto show armado por la misma bola de culeros de siempre, para lavarse la cara y decir “¡miren qué democrático todo!”, cuando ya tenían todo cocinado entre pasillos oscuros, whisky caro y risas de pinche élite podrida. ¡Nos querían de comparsa! De público pendejo aplaudiendo mientras se cogen la Constitución con un puto disfraz de civismo.
+
+¡Y ni así juntaron gente, cabrones! ¡Ni regalando café en las casillas! ¡Ni con toda la maquinaria mediática a su favor! ¡Pinche fracaso épico! ¿Guanajuato? 6.66%… ¡JAJAJA! ¡Se los metieron doblado y sin saliva! ¿Y Jalisco, 7%? ¡No mames, eso no es abstención, es una pinche revolución silenciosa, hijos de la chingada!
+
+Pero claro, van a salir los pendejos de siempre con su discurso moralino de “la democracia se construye con la participación”. ¡CHINGUEN A SU PUTÍSIMA MADRE! La verdadera democracia se construye con verdad, con justicia, con instituciones que no den asco y con procesos que no huelan a mierda desde kilómetros. *NO CON PINCHES OBRAS DE TEATRO MAL ACTUADAS*.
+
+![Gráfica de barras](2.png){group="my-gallery"}
+
+¡El abstencionismo no es huevonada, es rabia pura, es hartazgo encabronado! Es una mentada de madre con todas sus letras: *“NO ME REPRESENTAN, PINCHES RATAS VESTIDAS DE DEMÓCRATAS.”* Participar en esta mierda es como echarle perfume a un cadáver y decir que está vivo. ¡Nel! Aquí no nos prestamos. Aquí no jugamos su juego. Aquí ya les vimos el truco y les escupimos en la cara su pinche espectáculo.
+
+¡Que se metan su pinche elección por donde no les dé el sol, junto con sus boletas, sus spots, su INE vendido y su falsa narrativa de pueblo empoderado!
+¡Aquí no hay pueblo pendejo!
+¡Aquí hay dignidad, coraje y mucha madre!
+Y si eso les duele, ¡pues que les arda hasta el alma, cabrones!
