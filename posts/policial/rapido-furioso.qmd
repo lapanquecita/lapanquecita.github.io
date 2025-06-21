@@ -3,13 +3,13 @@ title: "Rápido y Furioso"
 title-block-banner: banner.jpg
 description: "¿Ya en cuál vamos?"
 author: "Montse"
-date: "2025-06-15"
+date: "2025-01-15"
 categories: [informe-policial]
 image: quesadilla-sin-queso.jpg
 ---
 
 **EXPEDIENTE:** 999-FURIA-FF20  
-**FECHA:** 15 de junio de 2025  
+**FECHA:** 15 de enero de 2025  
 **HORA:** 21:37 hrs  
 **LUGAR:** Cineplex 8D, Plaza Mamalona, Ciudad de los Chingadazos  
 
