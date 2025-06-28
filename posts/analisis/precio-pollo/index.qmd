@@ -9,10 +9,6 @@ image: 1.png
 lightbox: true
 ---
 
-Aquí tienes el texto con **capitalización correcta** y **correcciones ortográficas y gramaticales**, respetando el tono expresivo y crítico del original, pero con una presentación más cuidada y fluida:
-
----
-
 ![Boxplot](1.png)
 
 **¡Hijos de la gran putísima verga, ya esto es el puto colmo!**
