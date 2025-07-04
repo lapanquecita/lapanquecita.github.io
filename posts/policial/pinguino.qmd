@@ -1,0 +1,88 @@
+---
+title: "Pingüino"
+title-block-banner: banner.jpg
+description: "Aquí vamos de nuevo."
+author: "Montse"
+date: "2025-07-04"
+categories: [informe-policial]
+image: pinguino.jpg
+---
+
+**EXPEDIENTE:** 13-14-BAJA-TUS-PAQUETES  
+**FECHA:** 04/07/2025  
+**HORA:** En la pinche madrugada, cuando los demonios del kernel despiertan (03:14 a.m.)  
+**LUGAR:** Reclusorio Preventivo Oriente, Bloque de los Extorsionadores, Catfishers y Nerds Inadaptados Sociales
+
+---
+
+### **RELATO DE LOS HECHOS**
+
+A las 03:14 a.m., en el bloque más mugroso y contradictoriamente con **mejor conexión a internet que toda Oaxaca, Tabasco y la SEP combinadas**, estalló un enfrentamiento de proporciones bíblicas, pero con olor a sobaco gamer y energía de celador frustrado.
+
+Todo comenzó por una discusión que nadie pidió: **“¿Cuál es la mejor distro de Linux?”**
+Sí, esa misma pelea inútil y cíclica que ha dividido más comunidades que el PRI y los testigos de Jehová.
+
+El primer imbécil que habló fue uno que dijo que **Ubuntu** era “lo más user friendly”. Lo madrearon entre seis porque ya nadie respeta a quien defiende un sistema que parece diseñado por el sobrino pendejo de Canonical.
+Los usuarios de Ubuntu creen que son hackers por usar la terminal, pero se cagan si ven un '.tar.gz'. Usan GNOME como si no se les trabara cada que abren la calculadora.
+
+Luego salió uno que usa **Arch Linux**. El típico pendejo elitista que lleva 3 años en la cárcel y todavía no termina de configurar su escritorio. Dice que “aprendió un chingo” pero no puede instalar impresoras ni en sueños. Vive para decir “I use Arch, btw”, como si esa mierda fuera un doctorado en física cuántica.
+Literalmente tienen el ego de un influencer con 4 seguidores y la estabilidad emocional de su rolling release.
+
+Los de **Manjaro** son Arch para pendejos, y ni eso hacen bien. Son como esos niños que no saben nadar pero igual se avientan a la alberca con una piedra amarrada.
+Uno gritó que Manjaro tenía “lo mejor de Arch con usabilidad”, y le apagaron el cigarro en la frente. Justo merecido por tener mal gusto.
+
+**Debian** apareció como el abuelo que se cree superior solo porque es viejo. Sus usuarios caminan con la nariz tan levantada que podrían tragarse un dron.
+“Es estable”, dicen. **Sí, estable como tu tío borracho después de 4 caguamas y un divorcio.**
+
+**Pop!\_OS**… puta madre. La distro de los que quieren que todo se vea “bonito” mientras no entienden ni madre de cómo funciona nada. Puro poser con laptop de colores y stickers de GitHub que nunca han abierto el 'htop'.
+Un cabrón de Pop!\_OS intentó pedir paz, pero lo usaron de asiento mientras instalaban Fedora en su nuca.
+
+Y **Gentoo**… Ay cabrón. El de Gentoo parecía salido de un sótano. Flaco, sin dientes, con voz de demonio asmático y compilando su sistema desde 2009. Le tienen miedo porque no duerme. Nadie entiende por qué usa Gentoo, ni él. Solo grita “¡OPTIMIZACIÓN!” mientras babosea sobre flags de compilación.
+
+**Fedora** fue ignorada. Como siempre.
+**Slackware** fue mencionado por un loco que luego se orinó encima y se tragó su propio manual de instalación.
+
+El caos escaló cuando empezaron a piratear señal del penal contiguo para levantar servidores caseros en pleno motín. ¡**Tenían mejor velocidad de subida que la Cámara de Diputados!** ¡Culeramente más rápida que la de CFE Internet!
+
+---
+
+### **INTERVENCIÓN**
+
+Llamaron a toda pinche fuerza disponible.
+Entró la **Guardia Nacional** a toletazos y sin saber si estaban en una cárcel o en un LAN party del infierno.
+La **Policía Metropolitana** llegó dos horas tarde porque su GPS los mandó a un OXXO.
+Y llamaron en videollamada al mismísimo **Richard Stallman**, quien respondió desde un baño portátil lleno de cajas de pizza y dijo:
+
+> “None of this is free. You are slaves. Especially those using systemd. I spit on your distros.”
+
+Hubo que intervenir con gas lacrimógeno, memes violentos y una Biblia de Linus Torvalds para calmar los ánimos.
+
+---
+
+### **EVIDENCIA RECOLECTADA**
+
+* Un Raspberry Pi usado como proxy para ver hentai en 4K
+* Cables de red trenzados en forma de shurikens
+* Tres routers modificados con firmware de procedencia turbia
+* Una laptop quemada con un sticker que decía “trust me, I sudo”
+* Un espejo roto con la palabra “XFCE” rayada con sangre
+* Un peluche de Tux metido en una licuadora (sin razón aparente)
+
+---
+
+### **RECOMENDACIONES**
+
+1. **Prohibir absolutamente el uso de cualquier distro Linux** en reclusorios con más de 1 Mbps. Esta gente con buen internet y malas ideas es más peligrosa que un virus de macros.
+2. Aislar a los de Arch Linux en una celda insonorizada con solo una hoja impresa de instrucciones… en ruso.
+3. Deportar a los fanáticos extremos a cárceles gringas con iMacs rosas y sin sudo.
+4. Enviar a los de Debian a una oficina fiscal de Veracruz a usar Windows XP y Access.
+5. Los de Pop!\_OS van directo al infierno: un cibercafé donde todo corre con Windows Vista y hay reggaetón a todo volumen.
+6. Instalar limitadores de banda ancha en todas las celdas, para que sufran viendo tutoriales a 144p, como cualquier hijo de vecino en México.
+
+---
+
+### **FIRMA**
+
+**Oficial J. Ramírez “El sysadmin maldito”**  
+Unidad Antiflamers y Control de Nerds Hiperventilados  
+Placa: 0xBADC0DE

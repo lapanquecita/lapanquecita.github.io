@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/policial/pinguino.html",
+      "/posts/cuentos/el-infierno.html",
       "/posts/analisis/edades-padres/index.html",
       "/posts/analisis/hora-nacimientos/index.html",
       "/posts/cuentos/ultimo-juego.html",
