@@ -1,0 +1,35 @@
+---
+title: "Proporción de cesáreas en México"
+title-block-banner: ../banner.jpg
+description: "Análisis temporal de la proporción de cesáreas en México."
+author: "Montse"
+date: "2025-07-08"
+date-categories: [análisis de datos, salud pública]
+image: 1.png
+lightbox: true
+---
+
+![Evolución](1.png){group="my-gallery"}
+
+¡No mames, México! ¿Qué verga te pasó en el camino, cabrón? Esa gráfica de nacimientos por cesárea parece una pinche montaña rusa en drogas, pero que nomás sube y sube, como verga con priapismo: ¡**56.1%** en 2024! ¡Una puta locura! ¡Más de la mitad de los bebés nacen por puro puto cuchillazo!
+
+¿Qué son, tacos de carnitas o qué chingados? ¿Ya no podemos ni nacer sin que nos metan bisturí, culeros? ¡Pinches hospitales de mierda, convertidos en líneas de producción, como si la vida humana fuera un pinche proceso de embalaje en Amazon!
+
+¡Y los médicos, no se hacen pendejos! ¿Qué, se les tuercen los dedos para asistir un parto natural o qué chingados? ¡Ah, pero eso sí! Bien vergas pa’ programar la cesárea el viernes temprano, pa’ no llegar tarde al golf, al putero o al buffet de costillas.
+
+“Señora, su parto está muy lento, mejor la rajamos ahorita.”  
+¡Rajamos, cabrón! ¿Qué es esto, un lechón pa’ Navidad? ¡Poca madre tienen!  
+
+Y la SSA, esa pinche institución que se rasca los huevos con manual, sacando gráficas todas bonitas, como si nos estuvieran dando medallas y no metiendo el pito por detrás. ¡No queremos números bonitos, queremos respeto a la chingada!
+
+¿Dónde vergas quedó la dignidad? ¿Dónde está la información, el consentimiento, el cuidado? ¡Ah, no, verdad! Eso les vale madre, porque una cesárea se cobra más caro, y se hace en 40 minutos, no en 12 horas como un parto de verdad. ¡Pinches flojos hijos de su puta madre!
+
+![Ubicación](2.png){group="my-gallery"}
+
+Y pa’ acabar de encabronarse, bajan los nacimientos, pero suben las putas cesáreas. ¡No hay lógica, no hay ética, no hay nada! Solo una máquina de cortar mujeres, una tragadera de billete, una bola de culeros jugando al doctor con la vida de las mujeres.
+
+¡Esto no es salud, esto es una pinche violación sistemática con guantes de látex!
+
+¡Ya basta de esta puta farsa, de esta carnicería con logo del gobierno!  
+¡A la verga con todo!  
+¡Y que chingue a su madre el que lo justifique!  
