@@ -1,7 +1,7 @@
 ---
 title: "BlackLight"
 title-block-banner: banner.jpg
-description: "No es magia, es ciencia."
+description: "No es ciencia, es magia."
 author: "Montse"
 date: "2025-07-23"
 categories: [literatura, cuento]
