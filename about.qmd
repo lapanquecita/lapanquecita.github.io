@@ -11,7 +11,7 @@ about:
       text: Instagram
       href: https://instagram.com/lapankecita
     - icon: bluesky
-      text: B;uesky
+      text: Bluesky
       href: https://montse.bsky.social
     - icon: linkedin
       text: LinkedIn
