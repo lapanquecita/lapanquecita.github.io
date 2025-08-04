@@ -1,0 +1,28 @@
+---
+title: "Principales productores agrícolas de México durante 2024"
+title-block-banner: ../banner.jpg
+description: "Comparación del volumen de producción por entidad."
+author: "Montse"
+date: "2025-08-01"
+categories: [análisis de datos, economía, agricultura]
+image: 1.png
+lightbox: true
+---
+
+![Tabla](1.png)
+
+¡NO ES POSIBLE, CABRÓN! ¡MIRA ESTA PINCHE TABLA! ¡México sembrando hasta por el culo, produciendo millones de toneladas, y el pueblo sigue comiendo sopita de sobre con tortilla dura! ¿¡QUÉ CHINGADOS ESTAMOS HACIENDO MAL!? ¡¿QUIÉN MIERDA ESTÁ MANEJANDO ESTE CIRCO?! ¡¿UN BURRO CON TRAJE O QUÉ!?
+
+Michoacán, hijo de su pinche madre, ¡estás cabrón! Te rifas el aguacate, la fresa, el melón, el limón, el plátano, y todavía te da tiempo de sacar frijol y brócoli. ¡Te deberían poner una capa y nombrarte superhéroe agrícola, cabrón! ¡Pero qué chingados! El aguacate sigue costando como si viniera de Marte, y tú en la tiendita llorando porque no te alcanza ni pa’ un guacamole de burla.
+
+Veracruz, no mames. ¡53 millones de toneladas de caña de azúcar! ¡¡CINCUENTA Y TRES MILLONES!! ¿Quién verga necesita tanto azúcar? ¿Estás alimentando a un ejército de hormigas mutantes o qué pedo? ¡Ni Willy Wonka se mamaba tanto! Y ni hablemos del naranjazo y la mandarina… ese pinche estado es un desayuno completo con patas, y aun así parece que se lo están cogiendo los mismos de siempre.
+
+Sinaloa, ¡chingada madre, tú también te pasas! ¡Tienes el chile verde, el jitomate, el mango, el pepino, el tomate rojo, el verde, el de todos los pinches colores! ¡Pinche buffet de la tierra, cabrón! Y aún así el productor allá anda, con la camiseta sudada, los pies hechos mierda, y un intermediario que le paga como si fuera a vender caca, no jitomate.
+
+Chihuahua, eres el pinche papá de las manzanas. ¡OCHENTA Y CINCO POR CIENTO, CABRÓN! ¡Si las manzanas tuvieran acento, hablarían norteño! Pero seguro a los productores les están pagando con mordidas simbólicas y un “Dios te bendiga, mijo”. ¡ME LLEVA LA CHINGADA!
+
+Y Sonora, ¡a la verga, Sonora! ¡Tú ya estás en otro nivel! Papa, uva, trigo, sandía, tomate… ¡ese estado no es un desierto, es un puto milagro con sombrero y pistola! ¡Y qué hacen con eso? SE LOS CHINGAN. Porque lo que deberían ser estados ricos, autónomos, con tractores de oro y hospitales chingones, terminan siendo saqueados por parásitos con corbata y pinches campañas políticas recicladas.
+
+¡YA BASTA DE JUGAR AL PAÍS AGRÍCOLA CON PUEBLO HAMBRIENTO!  
+¡Ya basta de que los que siembran vivan jodidos, mientras los que no saben ni plantar un cactus estén llenando sus panzas y sus cuentas de banco!  
+¡YA BASTA DE VER A MÉXICO COMO UNA TIERRA QUE DA TODO… Y RECIBE PURA MIERDA A CAMBIO!  
