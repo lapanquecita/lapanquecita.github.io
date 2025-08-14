@@ -1,5 +1,5 @@
 ---
-title: "Camarones empanizados"
+title: "Camarones Empanizados"
 title-block-banner: banner.jpg
 description: "Del mar a tu paladar."
 author: "Montse"
