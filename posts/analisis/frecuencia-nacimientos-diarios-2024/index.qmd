@@ -1,7 +1,7 @@
 ---
 title: "Frecuencia de nacimientos diarios en México durante 2024"
 title-block-banner: ../banner.jpg
-description: "Análisis temporal por tipo de nacmientos ocurridos en México."
+description: "Análisis temporal por tipo de nacimientos ocurridos en México."
 author: "Montse"
 date: "2025-08-18"
 categories: [análisis de datos, salud pública]
