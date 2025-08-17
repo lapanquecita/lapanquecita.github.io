@@ -1,0 +1,20 @@
+---
+title: "Frecuencia de nacimientos diarios en México durante 2024"
+title-block-banner: ../banner.jpg
+description: "Análisis temporal por tipo de nacmientos ocurridos en México."
+author: "Montse"
+date: "2025-08-18"
+categories: [análisis de datos, salud pública]
+image: 1.png
+lightbox: true
+---
+
+![Calendario](1.png)
+
+¡Puta madre, ya valió verga, cabrón! Estas gráficas son un puto espejo del circo macabro que tenemos de sistema de salud en México. ¡Pinche cagadero disfrazado de Excel con colores bonitos! O sea, neta, ¿qué clase de pendejada es esta? Los nacimientos por cesárea programada se ven más cuadrados que la cabeza de un burócrata de la SSA. ¡Pinches médicos creyéndose dueños del calendario, como si pudieran decir “no, señora, su chamaco no nace hoy porque es domingo, mejor lo agendamos el pinche martes después de mi cafecito”! ¡Hijos de la chingada!
+
+¿Y las cesáreas de “urgencia”? ¡Váyanse a la verga, urgencia mis huevos! Urgencia es cuando te caga el perro del vecino, no cuando los doctores no quieren chambear en fin de semana y te meten bisturí porque sí. ¡Es un puto crimen disfrazado de protocolo médico! Pero no, ahí andan los pinches hospitales privados cobrando como si fueran mecánicos arreglando carros, “no pues, se complicó, patrón, hay que hacerle cesárea”. ¡Chínguen a su reputísima madre!
+
+Y los nacimientos vaginales… ¡ahí sí parece puto festival, cabrón! En septiembre explotan como pinches fuegos artificiales. ¿Qué chingados pasó en diciembre? Pues que todos los pinches mexicanos se estaban dando hasta por las orejas en las posadas, y nueve meses después, bolas, pinche boom de chamacos. ¡Somos una horda de borrachos calientes sin condón, wey! Pero lo más culero es que en vez de celebrar que haya partos naturales, lo usamos como puto “dato curioso” en gráficas que parecen calendario de la Coca-Cola.
+
+Neta, estoy hasta la verga de que traten a las mujeres y a los bebés como si fueran datos contables, como si estuvieran facturando vidas. ¡Pinche SSA podrida, bola de cabrones que seguro no han parido ni un pedo, pero sí saben programar un parto como si fuera junta de consejo! ¡Váyanse a la rechingadísima verga, cabrones de mierda, y ojalá se les caiga su pinche Excel en pleno informe!

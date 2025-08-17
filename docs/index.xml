@@ -10,7 +10,37 @@
 <atom:link href="https://lapanquecita.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>Contamos historias que nadie más se atreve a contar.</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Sat, 16 Aug 2025 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 18 Aug 2025 06:00:00 GMT</lastBuildDate>
+<item>
+  <title>Frecuencia de nacimientos diarios en México durante 2024</title>
+  <dc:creator>Montse </dc:creator>
+  <link>https://lapanquecita.github.io/posts/analisis/frecuencia-nacimientos-diarios-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Calendario"><img src="https://lapanquecita.github.io/posts/analisis/frecuencia-nacimientos-diarios-2024/1.png" class="img-fluid figure-img" alt="Calendario"></a></p>
+<figcaption>Calendario</figcaption>
+</figure>
+</div>
+<p>¡Puta madre, ya valió verga, cabrón! Estas gráficas son un puto espejo del circo macabro que tenemos de sistema de salud en México. ¡Pinche cagadero disfrazado de Excel con colores bonitos! O sea, neta, ¿qué clase de pendejada es esta? Los nacimientos por cesárea programada se ven más cuadrados que la cabeza de un burócrata de la SSA. ¡Pinches médicos creyéndose dueños del calendario, como si pudieran decir “no, señora, su chamaco no nace hoy porque es domingo, mejor lo agendamos el pinche martes después de mi cafecito”! ¡Hijos de la chingada!</p>
+<p>¿Y las cesáreas de “urgencia”? ¡Váyanse a la verga, urgencia mis huevos! Urgencia es cuando te caga el perro del vecino, no cuando los doctores no quieren chambear en fin de semana y te meten bisturí porque sí. ¡Es un puto crimen disfrazado de protocolo médico! Pero no, ahí andan los pinches hospitales privados cobrando como si fueran mecánicos arreglando carros, “no pues, se complicó, patrón, hay que hacerle cesárea”. ¡Chínguen a su reputísima madre!</p>
+<p>Y los nacimientos vaginales… ¡ahí sí parece puto festival, cabrón! En septiembre explotan como pinches fuegos artificiales. ¿Qué chingados pasó en diciembre? Pues que todos los pinches mexicanos se estaban dando hasta por las orejas en las posadas, y nueve meses después, bolas, pinche boom de chamacos. ¡Somos una horda de borrachos calientes sin condón, wey! Pero lo más culero es que en vez de celebrar que haya partos naturales, lo usamos como puto “dato curioso” en gráficas que parecen calendario de la Coca-Cola.</p>
+<p>Neta, estoy hasta la verga de que traten a las mujeres y a los bebés como si fueran datos contables, como si estuvieran facturando vidas. ¡Pinche SSA podrida, bola de cabrones que seguro no han parido ni un pedo, pero sí saben programar un parto como si fuera junta de consejo! ¡Váyanse a la rechingadísima verga, cabrones de mierda, y ojalá se les caiga su pinche Excel en pleno informe!</p>
+
+
+
+ ]]></description>
+  <category>análisis de datos</category>
+  <category>salud pública</category>
+  <guid>https://lapanquecita.github.io/posts/analisis/frecuencia-nacimientos-diarios-2024/</guid>
+  <pubDate>Mon, 18 Aug 2025 06:00:00 GMT</pubDate>
+  <media:content url="https://lapanquecita.github.io/posts/analisis/frecuencia-nacimientos-diarios-2024/1.png" medium="image" type="image/png" height="180" width="144"/>
+</item>
 <item>
   <title>Edwin</title>
   <dc:creator>Montse </dc:creator>
@@ -1287,83 +1317,6 @@ Todo lo culero de tu existencia se va a la mierda. Solo existes tú, el taco y e
   <guid>https://lapanquecita.github.io/posts/recetas/tacos-cecina.html</guid>
   <pubDate>Mon, 07 Jul 2025 06:00:00 GMT</pubDate>
   <media:content url="https://lapanquecita.github.io/posts/recetas/tacos-cecina.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Pingüino</title>
-  <dc:creator>Montse </dc:creator>
-  <link>https://lapanquecita.github.io/posts/policial/pinguino.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><strong>EXPEDIENTE:</strong> 13-14-BAJA-TUS-PAQUETES<br>
-<strong>FECHA:</strong> 04/07/2025<br>
-<strong>HORA:</strong> En la pinche madrugada, cuando los demonios del kernel despiertan (03:14 a.m.)<br>
-<strong>LUGAR:</strong> Reclusorio Preventivo Oriente, Bloque de los Extorsionadores, Catfishers y Nerds Inadaptados Sociales</p>
-<hr>
-<section id="relato-de-los-hechos" class="level3">
-<h3 class="anchored" data-anchor-id="relato-de-los-hechos"><strong>RELATO DE LOS HECHOS</strong></h3>
-<p>A las 03:14 a.m., en el bloque más mugroso y contradictoriamente con <strong>mejor conexión a internet que toda Oaxaca, Tabasco y la SEP combinadas</strong>, estalló un enfrentamiento de proporciones bíblicas, pero con olor a sobaco gamer y energía de celador frustrado.</p>
-<p>Todo comenzó por una discusión que nadie pidió: <strong>“¿Cuál es la mejor distro de Linux?”</strong> Sí, esa misma pelea inútil y cíclica que ha dividido más comunidades que el PRI y los testigos de Jehová.</p>
-<p>El primer imbécil que habló fue uno que dijo que <strong>Ubuntu</strong> era “lo más user friendly”. Lo madrearon entre seis porque ya nadie respeta a quien defiende un sistema que parece diseñado por el sobrino pendejo de Canonical. Los usuarios de Ubuntu creen que son hackers por usar la terminal, pero se cagan si ven un ‘.tar.gz’. Usan GNOME como si no se les trabara cada que abren la calculadora.</p>
-<p>Luego salió uno que usa <strong>Arch Linux</strong>. El típico pendejo elitista que lleva 3 años en la cárcel y todavía no termina de configurar su escritorio. Dice que “aprendió un chingo” pero no puede instalar impresoras ni en sueños. Vive para decir “I use Arch, btw”, como si esa mierda fuera un doctorado en física cuántica. Literalmente tienen el ego de un influencer con 4 seguidores y la estabilidad emocional de su rolling release.</p>
-<p>Los de <strong>Manjaro</strong> son Arch para pendejos, y ni eso hacen bien. Son como esos niños que no saben nadar pero igual se avientan a la alberca con una piedra amarrada. Uno gritó que Manjaro tenía “lo mejor de Arch con usabilidad”, y le apagaron el cigarro en la frente. Justo merecido por tener mal gusto.</p>
-<p><strong>Debian</strong> apareció como el abuelo que se cree superior solo porque es viejo. Sus usuarios caminan con la nariz tan levantada que podrían tragarse un dron. “Es estable”, dicen. <strong>Sí, estable como tu tío borracho después de 4 caguamas y un divorcio.</strong></p>
-<p><strong>Pop!_OS</strong>… puta madre. La distro de los que quieren que todo se vea “bonito” mientras no entienden ni madre de cómo funciona nada. Puro poser con laptop de colores y stickers de GitHub que nunca han abierto el ‘htop’. Un cabrón de Pop!_OS intentó pedir paz, pero lo usaron de asiento mientras instalaban Fedora en su nuca.</p>
-<p>Y <strong>Gentoo</strong>… Ay cabrón. El de Gentoo parecía salido de un sótano. Flaco, sin dientes, con voz de demonio asmático y compilando su sistema desde 2009. Le tienen miedo porque no duerme. Nadie entiende por qué usa Gentoo, ni él. Solo grita “¡OPTIMIZACIÓN!” mientras babosea sobre flags de compilación.</p>
-<p><strong>Fedora</strong> fue ignorada. Como siempre. <strong>Slackware</strong> fue mencionado por un loco que luego se orinó encima y se tragó su propio manual de instalación.</p>
-<p>El caos escaló cuando empezaron a piratear señal del penal contiguo para levantar servidores caseros en pleno motín. ¡<strong>Tenían mejor velocidad de subida que la Cámara de Diputados!</strong> ¡Culeramente más rápida que la de CFE Internet!</p>
-<hr>
-</section>
-<section id="intervención" class="level3">
-<h3 class="anchored" data-anchor-id="intervención"><strong>INTERVENCIÓN</strong></h3>
-<p>Llamaron a toda pinche fuerza disponible. Entró la <strong>Guardia Nacional</strong> a toletazos y sin saber si estaban en una cárcel o en un LAN party del infierno. La <strong>Policía Metropolitana</strong> llegó dos horas tarde porque su GPS los mandó a un OXXO. Y llamaron en videollamada al mismísimo <strong>Richard Stallman</strong>, quien respondió desde un baño portátil lleno de cajas de pizza y dijo:</p>
-<blockquote class="blockquote">
-<p>“None of this is free. You are slaves. Especially those using systemd. I spit on your distros.”</p>
-</blockquote>
-<p>Hubo que intervenir con gas lacrimógeno, memes violentos y una Biblia de Linus Torvalds para calmar los ánimos.</p>
-<hr>
-</section>
-<section id="evidencia-recolectada" class="level3">
-<h3 class="anchored" data-anchor-id="evidencia-recolectada"><strong>EVIDENCIA RECOLECTADA</strong></h3>
-<ul>
-<li>Un Raspberry Pi usado como proxy para ver hentai en 4K</li>
-<li>Cables de red trenzados en forma de shurikens</li>
-<li>Tres routers modificados con firmware de procedencia turbia</li>
-<li>Una laptop quemada con un sticker que decía “trust me, I sudo”</li>
-<li>Un espejo roto con la palabra “XFCE” rayada con sangre</li>
-<li>Un peluche de Tux metido en una licuadora (sin razón aparente)</li>
-</ul>
-<hr>
-</section>
-<section id="recomendaciones" class="level3">
-<h3 class="anchored" data-anchor-id="recomendaciones"><strong>RECOMENDACIONES</strong></h3>
-<ol type="1">
-<li><strong>Prohibir absolutamente el uso de cualquier distro Linux</strong> en reclusorios con más de 1 Mbps. Esta gente con buen internet y malas ideas es más peligrosa que un virus de macros.</li>
-<li>Aislar a los de Arch Linux en una celda insonorizada con solo una hoja impresa de instrucciones… en ruso.</li>
-<li>Deportar a los fanáticos extremos a cárceles gringas con iMacs rosas y sin sudo.</li>
-<li>Enviar a los de Debian a una oficina fiscal de Veracruz a usar Windows XP y Access.</li>
-<li>Los de Pop!_OS van directo al infierno: un cibercafé donde todo corre con Windows Vista y hay reggaetón a todo volumen.</li>
-<li>Instalar limitadores de banda ancha en todas las celdas, para que sufran viendo tutoriales a 144p, como cualquier hijo de vecino en México.</li>
-</ol>
-<hr>
-</section>
-<section id="firma" class="level3">
-<h3 class="anchored" data-anchor-id="firma"><strong>FIRMA</strong></h3>
-<p><strong>Oficial J. Ramírez “El sysadmin maldito”</strong><br>
-Unidad Antiflamers y Control de Nerds Hiperventilados<br>
-Placa: 0xBADC0DE</p>
-
-
-</section>
-
- ]]></description>
-  <category>informe-policial</category>
-  <guid>https://lapanquecita.github.io/posts/policial/pinguino.html</guid>
-  <pubDate>Fri, 04 Jul 2025 06:00:00 GMT</pubDate>
-  <media:content url="https://lapanquecita.github.io/posts/policial/pinguino.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
