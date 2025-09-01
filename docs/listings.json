@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/cuentos/causa-efecto.html",
+      "/posts/relatos/la-mesilla.html",
       "/posts/cuentos/ultimo-ninja.html",
       "/posts/analisis/frecuencia-nacimientos-diarios-2024/index.html",
       "/posts/fabulas/edwin.html",
@@ -97,7 +99,7 @@
       "/posts/artwork/toro.html",
       "/posts/cuentos/becerro-oro.html",
       "/posts/artwork/cocodrilo.html",
-      "/posts/cuentos/juan.html",
+      "/posts/cuentos/la-coleccion.html",
       "/posts/artwork/tucan.html",
       "/posts/artwork/gallina.html",
       "/posts/artwork/buho.html",
