@@ -8,36 +8,34 @@ categories: [literatura, cuento]
 image: la-coleccion.jpg
 ---
 
-Hay historias que deberían permanecer ocultas. Ciertas verdades pesan demasiado sobre la mente humana, y cuando alguien se topa con ellas no vuelve a ser el mismo. Esta es una de esas historias.
+Hay historias que deberían permanecer ocultas. Verdades que pesan demasiado sobre la mente humana y cambian para siempre a quien tropieza con ellas. Esta es una de esas historias.
 
 Juan Orozco, estudiante de bachillerato, pasaba una tarde cualquiera en su habitación cuando su celular se le escurrió de las manos. El golpe seco contra el piso lo hizo estremecer. Al levantarlo, la pantalla estaba hecha añicos, como una telaraña de cristal rota que apenas dejaba ver lo que había detrás.
 
 Cotizó la reparación en varios lugares y la conclusión fue siempre la misma: arreglarlo costaba casi lo mismo que comprar uno nuevo.
 
-Frustrado, agarró sus ahorros y salió rumbo al tianguis. El aire olía a grasa recalentada, a sudor y a drenaje. Bajo las lonas de colores que apenas dejaban pasar la luz del sol, se extendía un mar de puestos: ropa de paca colgada en ganchos oxidados, tenis de imitación que brillaban demasiado nuevos, relojes baratos y cadenas doradas que se pelaban al tacto. Entre el bullicio, mujeres voceaban ofertas mientras de un anafre cercano salía el olor penetrante de aceite requemado y carnitas grasientas.
+Frustrado, agarró sus ahorros y salió rumbo al tianguis. El aire olía a grasa recalentada y a sudor. Bajo lonas de colores, los puestos se amontonaban: ropa de paca, tenis demasiado brillosos para ser originales, relojes baratos y cadenas doradas que se despintaban al tacto. Entre el bullicio, mujeres voceaban ofertas mientras el olor a carnitas grasientas se mezclaba con el humo de anafres.
 
-La claridad que se filtraba por las lonas teñía el lugar de un tono enfermizo, a veces verdoso, a veces anaranjado, dependiendo del plástico bajo el que caminaba.
-
-Entre ese caos, un puesto en particular lo atrajo: teléfonos robados, apilados como cadáveres de metal.
+Entre ese caos, un puesto lo atrajo: teléfonos robados, apilados como cadáveres de metal.
 
 El vendedor era un hombre flaco, con la piel curtida por el sol y las uñas manchadas de grasa, como si hubiera estado hurgando en motores. Sus gestos eran nerviosos, movía los dedos con rapidez sobre la mesa como si contara dinero invisible.  
 —Si encuentras el tuyo te hago descuento —dijo con un tono burlón.  
 —El mío se rompió. Solo necesito otro rápido —respondió Juan, incómodo.  
 
-Comenzó a revisar los equipos, hasta que uno le llamó la atención. Un XenTech Pro. El nombre le resultaba extraño.  
-—Curioso… esta marca solo la venden en Asia —murmuró.  
+Comenzó a revisar los equipos, hasta que uno le llamó la atención: un XenTech Pro. Había escuchado hablar de esa marca en foros de tecnología; tenía reseñas excelentes, pero solo se conseguía en Asia.  
+—Curioso... esta marca no debería estar aquí —murmuró.  
 —Ese acaba de llegar. Dáme 1500 en caliente —dijo el hombre.  
 
 El aparato estaba sorprendentemente limpio, sin bloqueo, con un fondo de pantalla genérico. Funcionaba bien, salvo dos marcas en la parte trasera. Juan las tocó con la yema del dedo. No eran rayones: parecían quemaduras.  
 —¿Y esto? —preguntó, mostrándole las marcas.  
 El vendedor lo miró un segundo y, tras una breve pausa, bajó la voz:  
-—Está bien… 1200 y ya, llévatelo.  
+—Está bien... 1200 y ya, llévatelo.  
 
 Juan pagó. El hombre se persignó con los billetes y luego los guardó, levantando la vista al cielo.
 
 Juan estaba satisfecho con su compra, salvo ese pequeño detalle que no podía ignorar. El tianguis no estaba lejos de su casa, así que regresó rápido.
 
-En casa, Juan colocó su SIM. Apenas encendió el teléfono, este se conectó de inmediato a la red celular y apareció el icono de sincronización activa. Todo parecía normal… hasta que sonó el timbre de la puerta.
+En casa, Juan colocó su SIM. Apenas encendió el teléfono, este se conectó de inmediato a la red celular y apareció el icono de sincronización activa. Todo parecía normal... hasta que sonó el timbre de la puerta.
 
 Juan, inquieto, dejó el teléfono sobre la cama y fue a ver quién era. Al abrir, encontró a Doña Esther, la vecina de enfrente:  
 —Hola, Juanito. Tu mami me dejó pagados unos pastes —dijo, mientras le entregaba una bolsa de papel con los pastes adentro.  
@@ -49,7 +47,7 @@ Apenas volvió a mirar el teléfono, el fondo de pantalla cambió por sí solo. 
 
 Juan tragó saliva. Abrió la galería de imágenes. El pulso se le aceleró.
 
-Primera foto: una cancha de básquetbol vacía, al atardecer. El cielo anaranjado teñía las gradas y en el suelo se proyectaba una sombra alargada, como de la persona que tomó la foto… pero la figura no tenía rasgos definidos.
+Primera foto: una cancha de básquetbol vacía, al atardecer. El cielo anaranjado teñía las gradas y en el suelo se proyectaba una sombra alargada, como de la persona que tomó la foto... pero la figura no tenía rasgos definidos.
 
 Segunda: la misma cancha, ahora de noche. Un perro yacía tirado en medio del círculo central. No dormía: estaba muerto.
 
@@ -93,26 +91,28 @@ Al colgar, Juan respiró agitado. El fondo de pantalla volvió a cambiar. Ya no 
 
 A Juan le temblaron las manos. Sin pensarlo más, dio prisa de regreso a su casa, con la mente enredada en un solo pensamiento: cómo iba a contarles eso a sus padres.
 
-Al llegar a casa, notó que la puerta principal estaba entreabierta. El aire era frío, anormalmente frío.  
-—¿Papá? ¿Mamá? —llamó.  
+Juan regresó a su casa. La puerta estaba entreabierta.  
+Dentro, sus padres estaban en la sala, frente al televisor encendido.  
 
-Nadie respondió. Solo un olor fétido lo golpeó, denso, como carne podrida mezclada con hierro. El rastro lo condujo a la habitación de sus padres. La manija de la puerta estaba helada. La empujó con lentitud.
+—Qué bueno que llegaste, hijo. Ven —dijo su madre sin voltear, con una voz quebrada, demasiado hueca para sonar humana.
 
-Lo que vio lo quebró.
+Juan avanzó despacio. Cuando por fin los vio de frente, el aire se le congeló en los pulmones: **ya no tenían rostro**.  
+La piel colgaba desgarrada en pliegues húmedos, como si alguien hubiera arrancado sus facciones de raíz. En lugar de ojos y boca había **cuencas abiertas**, sangrantes, llenas de una carne gris que palpitaba con cada respiración.  
 
-Sus padres estaban ahí… o lo que quedaba de ellos. Los cuerpos retorcidos en posiciones imposibles, como si los huesos se hubieran quebrado desde dentro. Los rostros congelados en expresiones de agonía eterna. Las paredes manchadas con símbolos quemados, como si hubieran sido grabados a fuego desde adentro hacia afuera.
+De esas cavidades comenzó a brotar una **neblina oscura y viscosa**, que se deslizaba como humo vivo, reptando por la sala. El vapor olía a hierro y podredumbre, y se pegaba a la piel de Juan como un sudor helado.
 
-Juan cayó de rodillas, sin aire. El teléfono se deslizó de su pantalón y quedó boca abajo sobre el suelo. La parte trasera ya no mostraba dos marcas, sino tres.
+El cuarto se volvió insoportablemente frío. El televisor chisporroteaba, proyectando destellos azules sobre aquellas caras deformes, que parecían convulsionar bajo la bruma.
 
-Entonces comenzó a sonar. Sin que nadie lo tocara, la llamada se contestó sola.
+Juan quiso gritar, pero la voz se quebró en su garganta. Quiso llorar, pero sus ojos permanecieron secos, rígidos. El cuerpo se le entumeció hasta que cayó de rodillas. El celular resbaló de su pantalón y quedó boca abajo en el suelo. La carcasa, antes marcada con dos quemaduras, ahora mostraba **tres**.
 
-La risa volvió. Más profunda, más grave.  
-El aire de la habitación se volvió denso, irrespirable. Un peso lo aplastó, inmovilizándolo.  
+El teléfono sonó. Sin que nadie lo tocara, se contestó solo.
 
-Un murmullo recorrió su oído, húmedo, íntimo:  
-—Bienvenido a mi colección.  
+La risa volvió: profunda, áspera, formada por muchas gargantas al mismo tiempo.  
+La neblina que brotaba de las bocas de sus padres se elevó, lo rodeó y lo cubrió por completo. Entre ese humo sofocante, una voz murmuró en su oído, húmeda, íntima:  
+
+—Bienvenido a mi colección.
 
 A la mañana siguiente, patrullas y ambulancias llenaban la calle. Los peritos observaban la escena con horror, incapaces de describirla sin titubear.  
-—Doble homicidio. Matrimonio joven… brutal.  
+—Doble homicidio. Matrimonio joven... brutal.  
 —¿Hijos? —preguntó uno.  
 —No... según los vecinos, nunca tuvieron hijos.  

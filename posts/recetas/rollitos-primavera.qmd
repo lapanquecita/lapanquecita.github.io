@@ -6,7 +6,10 @@ author: "Montse"
 date: "2025-06-18"
 categories: [receta]
 image: rollitos-primavera.jpg
+lightbox: true
 ---
+
+![Foto](rollitos-primavera.jpg)
 
 ### INGREDIENTES (y no me salgas con que “no tengo eso”, pues ve y cómpralo, huevón):
 

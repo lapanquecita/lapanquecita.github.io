@@ -6,7 +6,10 @@ author: "Montse"
 date: "2025-05-14"
 categories: [receta]
 image: ensalada-rusa.jpg
+lightbox: true
 ---
+
+![Foto](ensalada-rusa.jpg)
 
 ## 🧨 **INGREDIENTES PA’ NO QUEDAR COMO PENDEJO:**
 

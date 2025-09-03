@@ -6,7 +6,10 @@ author: "Montse"
 date: "2025-02-14"
 categories: [receta]
 image: tacos-dorados.jpg
+lightbox: true
 ---
+
+![Foto](tacos-dorados.jpg)
 
 ### 🤬 **INGREDIENTES, CULERO**
 

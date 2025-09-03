@@ -6,7 +6,10 @@ author: "Montse"
 date: "2025-06-01"
 categories: [receta]
 image: chiles-nogada.jpg
+lightbox: true
 ---
+
+![Foto](chiles-nogada.jpg)
 
 ### **ANTES DE EMPEZAR:**
 

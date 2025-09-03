@@ -1,12 +1,15 @@
 ---
-title: "Hot-cakes"
+title: "Hot Cakes"
 title-block-banner: banner.jpg
 description: "Para un desayuno divertido."
 author: "Montse"
 date: "2025-01-03"
 categories: [receta]
 image: hot-cakes.jpg
+lightbox: true
 ---
+
+![Foto](hot-cakes.jpg)
 
 ### 🌪️ INGREDIENTES PA’ NO DESPERTAR COMO UN PEDAZO DE MIERDA:
 
@@ -45,7 +48,7 @@ image: hot-cakes.jpg
 ---
 
 Y **¡YA ESTÁ, MALDITO!**
-Ahora sí, siéntate con tus pinches hot-cakes, pon algo de música, y come como si el apocalipsis estuviera a 10 minutos.
+Ahora sí, siéntate con tus pinches hot cakes, pon algo de música, y come como si el apocalipsis estuviera a 10 minutos.
 Porque si vas a vivir en este mundo lleno de pendejadas, mínimo que sea con panqueques bien hechos, chingao.
 
 **Desayuna como campeón. O como bestia. Pero no como pinche alma en pena.**

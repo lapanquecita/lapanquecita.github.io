@@ -6,7 +6,10 @@ author: "Montse"
 date: "2025-07-07"
 categories: [receta]
 image: tacos-cecina.jpg
+lightbox: true
 ---
+
+![Foto](tacos-cecina.jpg)
 
 ## 🐄 1. Cría al puto becerro como si fuera tu primogénito
 

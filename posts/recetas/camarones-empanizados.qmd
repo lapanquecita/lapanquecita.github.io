@@ -6,7 +6,10 @@ author: "Montse"
 date: "2025-08-11"
 categories: [receta]
 image: camarones-empanizados.jpg
+lightbox: true
 ---
+
+![Foto](camarones-empanizados.jpg)
 
 ## **PASO 1: CONSEGUIR EL CAMARÓN – HAZAÑA DE HÉROE O MUERTE DE COBARDE**
 

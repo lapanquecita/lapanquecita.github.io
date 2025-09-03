@@ -6,7 +6,10 @@ author: "Montse"
 date: "2025-02-26"
 categories: [receta]
 image: molletes.jpg
+lightbox: true
 ---
+
+![Foto](molletes.jpg)
 
 ## INGREDIENTES PA’ ROMPER MADRES:
 

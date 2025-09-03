@@ -6,7 +6,10 @@ author: "Montse"
 date: "2025-05-25"
 categories: [receta]
 image: pizza-pepperoni.jpg
+lightbox: true
 ---
+
+![Foto](pizza-pepperoni.jpg)
 
 ### 🔥 INGREDIENTES
 

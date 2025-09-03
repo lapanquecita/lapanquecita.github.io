@@ -6,7 +6,10 @@ author: "Montse"
 date: "2025-07-12"
 categories: [receta]
 image: huevos-mexicana.jpg
+lightbox: true
 ---
+
+![Foto](huevos-mexicana.jpg)
 
 ### ☠️ **FASE 1: EL HUEVO FERTILIZADO, O SEA, EL COGIDÓN PRIMORDIAL**
 
