@@ -1,0 +1,23 @@
+---
+title: "Análisis de Nombres de escuelas primarias en México"
+title-block-banner: ../banner.jpg
+description: "Distribución de los nombres más comunes (ciclo escolar 2024-2025)."
+author: "Montse"
+date: "2025-10-17"
+categories: [análisis de datos, educación]
+image: 1.png
+lightbox: true
+---
+
+![Gráfica](1.png){group="my-gallery"}
+
+Prepara tu maldita paciencia, porque este jodido análisis de los nombres de escuelas primarias en México para el ciclo 2024-2025 es una verdadera mierda que apesta a injusticia. La lista, sacada de quién sabe dónde, nos muestra un pinche desmadre que grita favoritismo, y voy a destriparla con furia hasta que sangren los detalles. Nos enfocaremos en el top 10 y el bottom 10 para dejar claro que algunos héroes se llevan toda la gloria mientras otros se pudren en el olvido como perros apaleados.
+
+#### Los Reyes Putos del Top 10 que se Chingan Todo
+Empecemos con el cabrón de Benito Juárez, que se agandalla un insultante 4.54% como si fuera el puto dios de esta tierra jodida, un verdadero mamarracho que se lleva los reflectores. Le sigue Miguel Hidalgo con su 3.24%, pavoneándose como si no hubiera más héroes que valgan verga en esta historia rota. Luego viene Emiliano Zapata con 3.18% y Lázaro Cárdenas con 2.28%, como si fueran los únicos que le pusieron huevos a la revolución, unos pinches engreídos que se creen la mera neta. José María Morelos se cuela con 2.16%, Vicente Guerrero con 1.89%, e Ignacio Zaragoza con 1.58%, estos hijos de puta se la pasan chingando la atención como si los demás fueran pura mierda. Niños Héroes con 1.53% y Cuauhtémoc con 1.47% son tratados como trofeos relucientes, y Francisco I. Madero con 1.26% cierra el grupo, como si estos diez fueran los únicos que importan en esta chingada nación.
+
+#### Los Desgraciados del Bottom 10 que Nadie Quiere ni en Pintura
+Ahora bajemos a la cloaca de esta lista, donde la mierda se acumula sin piedad. Valentín Gómez Farías, Mariano Matamoros y Nezahualcóyotl, los tres con un patético 0.31%, son tratados como decoraciones de mierda que nadie limpia, unos pinches olvidados que dan asco. Francisco G. Bocanegra con 0.34%, Tierra y Libertad con 0.36%, y Álvaro Obregón con 0.37% están tirados en el rincón como basura apestosa, hijos de su chingada madre que nadie respeta. Belisario Domínguez con 0.39%, Independencia con 0.41%, y Aquiles Serdán con 0.42% son pura carne de cañón, como si sus luchas valieran menos que un pedo en el desierto, unos desgraciados que la historia escupe.
+
+#### Una Chingadera que Huele a Favoritismo de la Verga
+Esto es una chingadera monumental, una injusticia que me tiene los huevos al cuello. ¿Qué carajos pasa con esta lista que apesta a favoritismo de mierda? Parece que solo los del top 10 tienen sangre noble, mientras los del bottom 10 son tratados como estiércol pa’ pisotear. Es un puto insulto a la memoria de tantos que dieron la vida por este país. ¡Despierten de una vez, hijos de su chingada madre, que esta mierda me tiene reventando de coraje!

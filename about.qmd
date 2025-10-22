@@ -19,6 +19,9 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/lapanquecita
+    - icon: substack
+      text: Substack
+      href: https://lapanquecita.substack.com
 
 ---
 
